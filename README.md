@@ -37,24 +37,29 @@ Algumas áreas da segurança da informação lidam com situações críticas e e
 ### Fundamentos de Segurança  
 → **Gestão de Riscos e Compliance** (ISO 27001, NIST, LGPD, GDPR)  
 → **Criptografia e Certificados Digitais** 
+
 ### Redes e Infraestrutura Segura  
 → **Firewalls e IDS/IPS**  
 → **Configuração Segura de Servidores** (Linux/Windows)  
-→ **Redes Seguras (VPNs, VLANs, Zero Trust, Wireshark)**  
+→ **Redes Seguras (VPNs, VLANs, Zero Trust, Wireshark)** 
+
 ###  Análise de Vulnerabilidades 
 → **Ferramentas:** Nmap, wireshark, graylog, syslog
 → **Hardening de Sistemas**  
+
 ### Monitoramento e Resposta a Incidentes  
 → **SIEMs:** Splunk, Wazuh, Elastic
 → **Forense Digital e Threat Intelligence**  
-→ **Mitigação de Ataques**  
+→ **Mitigação de Ataques**
+
 ### Automação e Scripting  
-- **Python** (Automação de segurança, análise de logs)  
-- **Bash & PowerShell**  
+→ **Python** (Automação de segurança, análise de logs)  
+→ **Bash & PowerShell**
+
 ### Cloud Security  
-- **AWS, Azure, GCP Security**  
-- **IAM (Identity and Access Management)**  
-- **Segurança de Contêineres (Docker, Kubernetes, DevSecOps)**  
+→ **AWS, Azure, GCP Security**  
+→ **IAM (Identity and Access Management)**  
+→ **Segurança de Contêineres (Docker, Kubernetes, DevSecOps)**  
 
 ## Áreas principais:
 - **Analista de Infraestrutura**  
