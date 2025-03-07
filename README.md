@@ -1,10 +1,12 @@
 <h1 align="center">HIVE.CONNECT</h1>
+
 <div align="center">
-  <img src="cybersecurity.png" alt="Git" width="120px" />
+  <img src="cybersecurity.png" alt="Cybersecurity" width="120px" />
 </div>
 
-<h2 style="color: blue;">Aviso</h2>
+<h1 align="center">Segurança da Informação</h1>
 
+<h2 style="color: blue;">Aviso</h2>
 <p style="color: blue;">
 &nbsp;&nbsp;&nbsp;&nbsp;Antes de começarmos, é fundamental que você tenha uma boa base em redes e programação. Recomendamos concluir as trilhas de programação e redes até o nível intermediário, pois muitos conceitos abordados aqui serão essenciais para o aprendizado.  
 Outro ponto importante: a trilha de Segurança da Informação é a única em que não conseguimos priorizar conteúdos gratuitos e em português. A maioria dos cursos nessa área são pagos e geralmente em dólar, e grande parte do material está disponível apenas em inglês.  
