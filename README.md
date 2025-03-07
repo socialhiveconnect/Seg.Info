@@ -6,21 +6,20 @@
 
 <h1 align="center">Segurança da Informação</h1>
 
-<h2 style="color: blue;">Aviso</h2>
-<p style="color: blue;">
-&nbsp;&nbsp;&nbsp;&nbsp;Antes de começarmos, é fundamental que você tenha uma boa base em redes e programação. Recomendamos concluir as trilhas de programação e redes até o nível intermediário, pois muitos conceitos abordados aqui serão essenciais para o aprendizado.  
-Outro ponto importante: a trilha de Segurança da Informação é a única em que não conseguimos priorizar conteúdos gratuitos e em português. A maioria dos cursos nessa área são pagos e geralmente em dólar, e grande parte do material está disponível apenas em inglês.  
-Por isso, indicamos essa trilha para quem já atua no mercado de tecnologia e deseja migrar para segurança ou para aqueles que têm alta disponibilidade de tempo e recursos para investir nos estudos. Muitos profissionais de Segurança da Informação vêm de áreas como Infraestrutura e Suporte, pois o conhecimento adquirido nessas funções ajudará muito nessa jornada!
-</p>
+## Aviso 
+&nbsp;&nbsp;&nbsp;&nbsp;Antes de começarmos, é fundamental que você tenha uma boa base em redes e programação. Recomendamos concluir as trilhas de programação e redes até o nível intermediário, pois muitos conceitos abordados aqui serão essenciais para o aprendizado.
+Outro ponto importante: a trilha de Segurança da Informação é a única em que não conseguimos priorizar conteúdos gratuitos e em português. A maioria dos cursos nessa área são pagos e geralmente em dólar e grande parte do material está disponível apenas em inglês.
+Por isso, indicamos essa trilha para quem já atua no mercado de tecnologia e deseja migrar para segurança ou para aqueles que têm alta disponibilidade de tempo e recursos para investir nos estudos. Muitos profissionais de Segurança da Informação vêm de áreas como Infraestrutura e Suporte, pois o conhecimento adquirido nessas funções ajudará muito nessa jornada!.
 
 ## Objetivo
+
 &nbsp;&nbsp;&nbsp;&nbsp;O objetivo desta trilha é te capacitar para atuar na área de Segurança da Informação, saindo do completo zero e desenvolvendo habilidades para:  
 
 → **Identificar, mitigar e responder a ameaças cibernéticas**;  
 → **Implementar políticas de segurança para proteger redes, sistemas e dados**;  
 → **Realizar testes de invasão e auditoria de segurança em ambientes corporativos**  
 
-## Perfil de um Profissional de Infraestrutura
+## Perfil de um Profissional em Segurança da Informação
 &nbsp;&nbsp;&nbsp;&nbsp;Quem trabalha com Segurança da Informação precisa ser analítico, atento aos detalhes e proativo, pois lida diretamente com a proteção de dados e a mitigação de ameaças. Além disso, a capacidade de resolver problemas sob pressão é essencial.
 Algumas áreas da segurança da informação lidam com situações críticas e emergenciais. Muitas vezes, o profissional precisa estar disponível a qualquer momento para monitorar incidentes e responder a ataques, garantindo a continuidade dos sistemas e minimizando impactos para a empresa. Além disso, deve ter **pensamento crítico e agir rapidamente** diante de incidentes, garantindo a integridade, confidencialidade e disponibilidade das informações.  
   
