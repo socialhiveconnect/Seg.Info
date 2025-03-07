@@ -3,6 +3,11 @@
   <img src="cybersecurity.png" alt="Git" width="120px" />
 </div>
 
+##Aviso 
+&nbsp;&nbsp;&nbsp;&nbsp;Antes de começarmos, é fundamental que você tenha uma boa base em redes e programação. Recomendamos concluir as trilhas de programação e redes até o nível intermediário, pois muitos conceitos abordados aqui serão essenciais para o aprendizado.
+Outro ponto importante: a trilha de Segurança da Informação é a única em que não conseguimos priorizar conteúdos gratuitos e em português. A maioria dos cursos nessa área são pagos e geralmente em dólar e grande parte do material está disponível apenas em inglês.
+Por isso, indicamos essa trilha para quem já atua no mercado de tecnologia e deseja migrar para segurança ou para aqueles que têm alta disponibilidade de tempo e recursos para investir nos estudos. Muitos profissionais de Segurança da Informação vêm de áreas como Infraestrutura e Suporte, pois o conhecimento adquirido nessas funções ajudará muito nessa jornada!.
+
 ## Objetivo
 &nbsp;&nbsp;&nbsp;&nbsp;O objetivo desta trilha é te capacitar para atuar na área de Segurança da Informação, saindo do completo zero e desenvolvendo habilidades para:  
 
