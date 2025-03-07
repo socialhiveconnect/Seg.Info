@@ -2,9 +2,8 @@
 
 <div align="center">
   <img src="cybersecurity.png" alt="Cybersecurity" width="120px" />
+  <h1 align="center">Segurança da Informação</h1>
 </div>
-
-<h1 align="center">Segurança da Informação</h1>
 
 ## Aviso 
 &nbsp;&nbsp;&nbsp;&nbsp;Antes de começarmos, é fundamental que você tenha uma boa base em redes e programação. Recomendamos concluir as trilhas de programação e redes até o nível intermediário, pois muitos conceitos abordados aqui serão essenciais para o aprendizado.
