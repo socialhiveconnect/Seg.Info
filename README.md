@@ -62,7 +62,7 @@ Algumas áreas da segurança da informação lidam com situações críticas e e
 → **Segurança de Contêineres (Docker, Kubernetes, DevSecOps)**  
 
 ## Áreas principais:
-- **Analista de Segurança da informação*  
+- **Analista de Segurança da informação**  
 - **Analista de Cloud**  
 - **SOC**  
 - **Threat Intelligence**  
@@ -72,9 +72,9 @@ Algumas áreas da segurança da informação lidam com situações críticas e e
 - **Forense Digital**  
 - **Especialista**  
 - **Cybersecurity**  
-↳**Redteam**  
-↳**Blueteam**  
-↳**Orangeteam**  
-↳**Whiteteam**  
+↳*Redteam*  
+↳*Blueteam*  
+↳*Orangeteam*  
+↳*Whiteteam*  
 ---
 **Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
