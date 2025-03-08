@@ -44,17 +44,17 @@ Algumas áreas da segurança da informação lidam com situações críticas e e
 → **Redes Seguras (VPNs, VLANs, Zero Trust, Wireshark)** 
 
 ###  Análise de Vulnerabilidades 
-→ **Ferramentas:** Nmap, wireshark, graylog, syslog
+→ **Ferramentas:** Nmap, wireshark, graylog, syslog  
 → **Hardening de Sistemas**  
 
 ### Monitoramento e Resposta a Incidentes  
-→ **SIEMs:** Splunk, Wazuh, Elastic
+→ **SIEMs:** Splunk, Wazuh, Elastic  
 → **Forense Digital e Threat Intelligence**  
-→ **Mitigação de Ataques**
+→ **Mitigação de Ataques**  
 
 ### Automação e Scripting  
 → **Python** (Automação de segurança, análise de logs)  
-→ **Bash & PowerShell**
+→ **Bash & PowerShell**  
 
 ### Cloud Security  
 → **AWS, Azure, GCP Security**  
@@ -62,15 +62,19 @@ Algumas áreas da segurança da informação lidam com situações críticas e e
 → **Segurança de Contêineres (Docker, Kubernetes, DevSecOps)**  
 
 ## Áreas principais:
-- **Analista de Infraestrutura**  
-- **Cabeamento**  
-- **NOC**  
-- **Administrador de Servidores**  
-- **Virtualização**  
-- **Administrador de Redes**  
-- **DevOps**  
-- **Infraestrutura em Nuvem**  
-- **Network Engineer**  
-
+- **Analista de Segurança da informação*  
+- **Analista de Cloud**  
+- **SOC**  
+- **Threat Intelligence**  
+- **Engenheiro de Segurança cibernética**  
+- **Pesquisador Segurança da informação**  
+- **Arquiteto Segurança da informação**  
+- **Forense Digital**  
+- **Especialista**  
+- **Cybersecurity**  
+↳**Redteam**  
+↳**Blueteam**  
+↳**Orangeteam**  
+↳**Whiteteam**  
 ---
 **Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
