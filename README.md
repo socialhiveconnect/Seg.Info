@@ -76,6 +76,20 @@ Algumas áreas da segurança da informação lidam com situações críticas e e
 ↳*Redteam*  
 ↳*Blueteam*  
 ↳*Orangeteam*  
-↳*Whiteteam*  
+↳*Whiteteam*
+
+## Título para LinkedIn:
+
+**Segurança da Informação | SOC | Análise de Vulnerabilidades | SIEM | Certificação CompTIA Security+ em andamento**  
+<br>  
+**Cybersecurity | Blue Team | Monitoramento e Resposta a Incidentes | Splunk | MITRE ATT&CK | Certificação CySA+**  
+<br>  
+**Cloud Security | Segurança em AWS & Azure | IAM | Zero Trust | DevSecOps | Certificação AWS Security Specialty | AZ-500**  
+<br>  
+**Red Team | Ethical Hacking | Pentest | Exploits e Vulnerabilidades | Burp Suite | Certificação OSCP em andamento**  
+<br>  
+**Arquitetura de Segurança | Proteção de Infraestruturas Críticas | Modelagem de Ameaças | Zero Trust | CISSP | CCSP**  
+
+- **Esses são apenas alguns exemplos. Você pode criar o seu título personalizado seguindo a mesma estrutura: escolha a área que deseja atuar, destaque uma especialização dentro dessa área, inclua uma ferramenta importante relacionada e mencione uma certificação que está em processo de obtenção. Essa abordagem é chave para o sucesso.**
 ---
 **Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
