@@ -39,7 +39,8 @@ Algumas áreas da segurança da informação lidam com situações críticas e e
 → **Criptografia e Certificados Digitais** 
 
 ### Redes e Infraestrutura Segura  
-→ **Firewalls e IDS/IPS**  
+→ **Firewalls**
+→ **IDS/IPS, DLP e EDR**  
 → **Configuração Segura de Servidores** (Linux/Windows)  
 → **Redes Seguras (VPNs, VLANs, Zero Trust, Wireshark)** 
 
