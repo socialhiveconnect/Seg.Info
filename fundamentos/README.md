@@ -8,6 +8,30 @@ que você realize esse desafio, pois ele será a base para os próximos passos. 
 a baixo, qualquer dúvida perginte em nosso servidor no Discord. Dedique-se e aproveite ao máximo essa oportunidade de 
 aprimoramento!
 
+  graph LR;
+      A[Introdução à Segurança Cibernética]-->B[Cenário de Ameaças];
+      A-->C[Fundamentos de Cibersegurança];
+      B-->D[Defesa Contra Ameaças Online];
+      C-->E[Segurança em TI];
+      E-->F[Segurança em Nuvem];
+      D-->G[Linux para Segurança];
+      G-->H[Wireshark e Análise de Tráfego];
+      F-->I[Cybersecurity Essentials];
+      I-->J[Analista Júnior de Cibersegurança];
+      J-->K[Ethical Hacking];
+      
+      click A "https://www.netacad.com/courses/intro-cybersecurity"
+      click B "https://www.cyberdefense.com/threat-landscape"
+      click C "https://www.ibm.com/skillsbuild"
+      click D "https://www.academiaforensedigital.com/curso-ciberseguranca"
+      click E "https://www.ev.org.br/cursos/seguranca-em-tecnologia-da-informacao"
+      click F "https://beacon.paloaltonetworks.com/student/path/491502"
+      click G "https://www.fiap.com.br/educacao-a-distancia"
+      click H "https://www.udemy.com/course/wireshark-analisando-trafego"
+      click I "https://www.netacad.com/courses/cybersecurity-essentials"
+      click J "https://www.netacad.com/courses/junior-cybersecurity-analyst"
+      click K "https://www.netacad.com/courses/ethical-hacker"
+
 ## Fundamentos:
 
 1. **Introduction to Cybersecurity | Cisco**  
@@ -54,6 +78,10 @@ aprimoramento!
     **Ou**  
     **Wireshark analisando tráfego | Udemy R$39,90 - Com certificado**  
     [Wireshark Analisando Tráfego | Udemy](https://www.udemy.com/course/wireshark-analisando-trafego/)
+
+
+## O que você deve saber ao terminar essa trilha:
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;Após a conclusão dos cursos, não se esqueça de realizar o exercício, especialmente se este for seu primeiro contato com Segurança da Informação.   
 &nbsp;&nbsp;&nbsp;&nbsp;Sempre compartilhe seus novos certificados no LinkedIn para aumentar sua visibilidade e destacar seu desenvolvimento profissional.    
