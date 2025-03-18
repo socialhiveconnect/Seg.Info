@@ -7,7 +7,19 @@
 que você realize esse desafio, pois ele será a base para os próximos passos. Tente seguir a trilha de cursos conforme a sequência 
 a baixo, qualquer dúvida perginte em nosso servidor no Discord. Dedique-se e aproveite ao máximo essa oportunidade de 
 aprimoramento!
-
+```mermaid
+  graph LR;
+      A[Introdução à Segurança Cibernética]-->B[Cenário de Ameaças];
+      A-->C[Fundamentos de Cibersegurança];
+      B-->D[Defesa Contra Ameaças Online];
+      C-->E[Segurança em TI];
+      E-->F[Segurança em Nuvem];
+      D-->G[Linux para Segurança];
+      G-->H[Wireshark e Análise de Tráfego];
+      F-->I[Cybersecurity Essentials];
+      I-->J[Analista Júnior de Cibersegurança];
+      J-->K[Ethical Hacking];
+```
 ```mermaid
     graph TD;
       A[Fundamentos de Cibersegurança]-->B[Introdução à Segurança Cibernética];
