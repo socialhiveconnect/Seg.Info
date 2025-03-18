@@ -88,7 +88,7 @@ aprimoramento!
 9. **Introdução técnica em cibersegurança (EN)**  
    [Technical Introduction to Cybersecurity](https://www.cybrary.it/course/technical-introduction-to-cybersecurity/)
 
-10. **Junior Cybersecurity Analyst | Cisco** 
+10. **Junior Cybersecurity Analyst | Cisco**  
      [Junior Cybersecurity Analyst - Skills for All](https://www.netacad.com/pt/career-paths/cybersecurity?courseLang=pt-BR)
 
 11. **Ethical Hacker | Cisco (EN)**  
