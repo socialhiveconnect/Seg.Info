@@ -58,4 +58,6 @@ aprimoramento!
 &nbsp;&nbsp;&nbsp;&nbsp;Após a conclusão dos cursos, não se esqueça de realizar o exercício, especialmente se este for seu primeiro contato com Segurança da Informação.;  
 &nbsp;&nbsp;&nbsp;&nbsp;Sempre compartilhe seus novos certificados no LinkedIn para aumentar sua visibilidade e destacar seu desenvolvimento profissional.;  
 &nbsp;&nbsp;&nbsp;&nbsp;Esta foi uma introdução essencial ao tema, que servirá como base para os próximos módulos. No próximo, vamos explorar ferramentas que ajudarão a aplicar esses conceitos na prática e aprimorar suas habilidades na área.;  
-**Bora que juntos somos mais fortes!**
+---
+**Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
+
