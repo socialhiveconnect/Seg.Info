@@ -20,16 +20,6 @@ aprimoramento!
       F-->I[Cybersecurity Essentials];
       I-->J[Analista Júnior de Cibersegurança];
       J-->K[Ethical Hacking];
-
-      click B "https://www.netacad.com/courses/intro-cybersecurity"
-      click D "https://www.cyberdefense.com/threat-landscape"
-      click E "https://www.academiaforensedigital.com/curso-ciberseguranca"
-      click F "https://www.ev.org.br/cursos/seguranca-em-tecnologia-da-informacao"
-      click G "https://www.fiap.com.br/educacao-a-distancia"
-      click H "https://www.udemy.com/course/wireshark-analisando-trafego"
-      click I "https://www.netacad.com/courses/cybersecurity-essentials"
-      click J "https://www.netacad.com/courses/junior-cybersecurity-analyst"
-      click K "https://www.netacad.com/courses/ethical-hacker"
 ```
 
 ## Fundamentos:
