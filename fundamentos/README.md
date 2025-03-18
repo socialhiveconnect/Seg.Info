@@ -22,6 +22,31 @@ aprimoramento!
       J-->K[Ethical Hacking];
 ```
 
+```mermaid
+ graph LR;
+      subgraph A[Fundamentos de Cibersegurança]
+          direction TB;
+          A1[Introdução à Segurança Cibernética]-->A2[Cenário de Ameaças];
+          A1-->A3[Defesa Contra Ameaças Online];
+      end
+
+      subgraph B[Fundamentos de TI e Ferramentas]
+          direction TB;
+          B1[Segurança em TI]-->B2[Segurança em Nuvem];
+          B1-->B3[Linux para Segurança];
+          B3-->B4[Wireshark e Análise de Tráfego];
+      end
+
+      subgraph C[Avançado]
+          direction TB;
+          C1[Cybersecurity Essentials]-->C2[Analista Júnior de Cibersegurança];
+          C2-->C3[Ethical Hacking];
+      end
+
+      A1-->B1;
+      B2-->C1;
+```
+
 ## Fundamentos:
 
 1. **Introduction to Cybersecurity | Cisco**  
