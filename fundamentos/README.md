@@ -1,6 +1,7 @@
-<h1 align="center">Bem-vindo aos Fundamentos de Segurança da Informação/h1>
+<h1 align="center">Fundamentos de Segurança da Informação/h1>
 </div>
 
+## Bem-vindo(a) ao primeiro passo dessa jornada!
 &nbsp;&nbsp;&nbsp;&nbsp;Neste espaço, você terá acesso a conteúdos e conceitos fundamentais para iniciar sua jornada de estudos em segurança
  da informação. Após a conclusão dos cursos, acesse o PDF com o exercício para reforçar seu aprendizado. É altamente recomendável 
 que você realize esse desafio, pois ele será a base para os próximos passos. Tente seguir a trilha de cursos conforme a sequência 
