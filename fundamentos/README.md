@@ -9,24 +9,22 @@ a baixo, qualquer dúvida perginte em nosso servidor no Discord. Dedique-se e ap
 aprimoramento!
 
 ```mermaid
-  graph LR;
-      A[Introdução à Segurança Cibernética]-->B[Cenário de Ameaças];
-      A-->C[Fundamentos de Cibersegurança];
-      B-->D[Defesa Contra Ameaças Online];
-      C-->E[Segurança em TI];
-      E-->F[Segurança em Nuvem];
-      D-->G[Linux para Segurança];
+    graph TD;
+      A[Fundamentos de Cibersegurança]-->B[Introdução à Segurança Cibernética];
+      A-->C[Fundamentos de Segurança em TI];
+      B-->D[Cenário de Ameaças];
+      B-->E[Defesa Contra Ameaças Online];
+      C-->F[Segurança em Nuvem];
+      C-->G[Linux para Segurança];
       G-->H[Wireshark e Análise de Tráfego];
       F-->I[Cybersecurity Essentials];
       I-->J[Analista Júnior de Cibersegurança];
       J-->K[Ethical Hacking];
-      
-      click A "https://www.netacad.com/courses/intro-cybersecurity"
-      click B "https://www.cyberdefense.com/threat-landscape"
-      click C "https://www.ibm.com/skillsbuild"
-      click D "https://www.academiaforensedigital.com/curso-ciberseguranca"
-      click E "https://www.ev.org.br/cursos/seguranca-em-tecnologia-da-informacao"
-      click F "https://beacon.paloaltonetworks.com/student/path/491502"
+
+      click B "https://www.netacad.com/courses/intro-cybersecurity"
+      click D "https://www.cyberdefense.com/threat-landscape"
+      click E "https://www.academiaforensedigital.com/curso-ciberseguranca"
+      click F "https://www.ev.org.br/cursos/seguranca-em-tecnologia-da-informacao"
       click G "https://www.fiap.com.br/educacao-a-distancia"
       click H "https://www.udemy.com/course/wireshark-analisando-trafego"
       click I "https://www.netacad.com/courses/cybersecurity-essentials"
