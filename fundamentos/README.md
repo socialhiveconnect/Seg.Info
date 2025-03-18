@@ -1,4 +1,4 @@
-<h1 align="center">Fundamentos de Segurança da Informação/h1>
+<h1 align="center">Fundamentos de Segurança da Informação
 </div>
 
 ## Bem-vindo(a) ao primeiro passo dessa jornada!
