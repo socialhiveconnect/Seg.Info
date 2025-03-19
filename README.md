@@ -160,7 +160,7 @@ ___
       I-->J[Analista Júnior de Cibersegurança];
       J-->K[Ethical Hacking];
 
-      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/iniciante "Veja o repositório dos Fundamentos"
+      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/iniciante "Veja o repositório de Iniciantes"
 ```
 
 <h1 align="center">Intermediário</h1>
@@ -178,7 +178,7 @@ ___
       I-->J[Analista Júnior de Cibersegurança];
       J-->K[Ethical Hacking];
 
-      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/intermediario" "Veja o repositório dos Fundamentos"
+      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/intermediario" "Veja o repositório Intermediário"
 ```
 
 <h1 align="center">Avançado</h1>
@@ -196,7 +196,7 @@ ___
       I-->J[Analista Júnior de Cibersegurança];
       J-->K[Ethical Hacking];
 
-      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/avançado "Veja o repositório dos Fundamentos"
+      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/avançado "Veja o repositório Avançado"
 ```
 ---
 **Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
