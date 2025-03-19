@@ -225,16 +225,70 @@ ___
 - [Especialização em Segurança Cibernética](https://posead.uninassau.edu.br/nossos-cursos/especializacao-em-seguranca-cibernetica/801/60/digital)
 
 ## Certificações
-→ **CompTIA Security+ ** Para quem está começando.  
-→ **CEH** Para quem quer se especializar em hacking ético.  
-→ **GIAC Security Essentials (GSEC)** Para uma abordagem prática.  
-→ **CISSP** Para uma carreira avançada em segurança (geralmente, após alguns anos de experiência).  
-→ **CISM** Para gerentes de segurança de TI.  
-→ **CISA** Para profissionais focados em auditoria e controle.  
-→ **CCSP** Para quem trabalha com segurança em nuvem.  
-→ **GCIH** Para especialistas em resposta a incidentes.  
-→ **CTIA** Para analistas de ameaças cibernéticas.  
-→ **CDRE** Para profissionais de continuidade de negócios e recuperação de desastres.  
+→ **CompTIA Security+** - Para quem está começando.  
+→ **CEH** - Para quem quer se especializar em hacking ético.  
+→ **GIAC Security Essentials (GSEC)** - Para uma abordagem prática.  
+→ **CISSP** - Para uma carreira avançada em segurança (geralmente, após alguns anos de experiência).  
+→ **CISM** - Para gerentes de segurança de TI.  
+→ **CISA** - Para profissionais focados em auditoria e controle.  
+→ **CCSP** - Para quem trabalha com segurança em nuvem.  
+→ **GCIH** - Para especialistas em resposta a incidentes.  
+→ **CTIA** - Para analistas de ameaças cibernéticas.  
+→ **CDRE** - Para profissionais de continuidade de negócios e recuperação de desastres.  
+
+---
+
+## Principais Ferramentas de Segurança da Informação
+
+| Categoria | Nome | Open Source/Paga | Descrição | Link |
+| :---: | :---: | :---: | :---: | :---: |
+| **Análise de Redes** | **Nmap** | Open Source | Ferramenta para descoberta de rede e auditoria de segurança, utilizada para mapear redes e identificar portas abertas. | [Nmap](https://nmap.org/) |
+| **SIEM** | **AlienVault OSSIM** | Open Source | Plataforma de gerenciamento de eventos e informações de segurança que integra diversas ferramentas de segurança. | [AlienVault OSSIM](https://cybersecurity.att.com/products/ossim) |
+| **Análise de Vulnerabilidades** | **Nessus** | Paga | Scanner de vulnerabilidades amplamente utilizado para identificar pontos fracos em sistemas e redes. | [Nessus](https://www.tenable.com/products/nessus) |
+| **Compartilhamento de Informações** | **MISP** | Open Source | Plataforma de compartilhamento de informações sobre ameaças, facilitando a coleta, armazenamento e distribuição de indicadores de comprometimento. | [MISP](https://www.misp-project.org/) |
+| **Análise de Vulnerabilidades** | **OpenVAS** | Open Source | Plataforma robusta para varreduras de vulnerabilidades, permitindo a detecção de falhas de segurança em diversos serviços e aplicações. | [OpenVAS](https://www.greenbone.net/en/openvas-community-edition/) |
+| **Detecção de Intrusões** | **Snort** | Open Source | Sistema de prevenção e detecção de intrusões em rede que analisa o tráfego em tempo real. | [Snort](https://www.snort.org/) |
+| **Monitoramento de Segurança** | **Wazuh** | Open Source | Plataforma de monitoramento de segurança que oferece detecção de ameaças, integridade de arquivos e resposta a incidentes. | [Wazuh](https://wazuh.com/) |
+| **Análise de Redes** | **Wireshark** | Open Source | Ferramenta de análise de protocolos de rede que captura e interage com os dados trafegados em uma rede. | [Wireshark](https://www.wireshark.org/) |
+| **Firewall** | **Untangle** | Open Source | Fornece proteção contra spam, vírus e spyware, além de filtragem na web e funcionalidades de firewall. | [Untangle](https://www.untangle.com/) |
+| **Monitoramento de Redes** | **Network Security Toolkit (NST)** | Open Source | Combina uma variedade de aplicativos de código aberto para monitorar tráfego, intrusões e muito mais. | [NST](https://networksecuritytoolkit.org/nst/) |
+| **Auditoria de Segurança** | **Bastille Linux** | Open Source | Ferramenta que oferece um bloqueio personalizado para máquinas Linux, baseado em respostas sobre segurança. | [Bastille Linux](https://bastille-linux.sourceforge.io/) |
+| **Análise de Malware** | **Cuckoo Sandbox** | Open Source | Sistema de análise automatizada de malware que permite a observação do comportamento de arquivos suspeitos. | [Cuckoo Sandbox](https://cuckoosandbox.org/) |
+| **Forense Digital** | **Autopsy** | Open Source | Interface gráfica para o The Sleuth Kit, utilizada para investigações forenses de discos rígidos e smartphones. | [Autopsy](https://www.sleuthkit.org/autopsy/) |
+
+---
+<h1 align="center">Plataformas e Eventos de CTF</h1>
+
+### Plataformas Online  
+- [**Extreme Hacking**](https://extremehacking.com/) - Desafios avançados com foco em cibersegurança ofensiva, com uma comunidade ativa de hackers.  
+- [**Hack The Box (HTB)**](https://www.hackthebox.com/) - Plataforma interativa para testar e aprimorar habilidades ofensivas e defensivas.  
+- [**TryHackMe**](https://tryhackme.com/) - Oferece laboratórios interativos com aprendizado guiado.  
+- [**OverTheWire**](https://overthewire.org/wargames/) - Desafios de segurança para aprender sobre Linux, redes e exploração.  
+- [**PicoCTF**](https://picoctf.org/) - CTF voltado para iniciantes, criado pela Carnegie Mellon University.  
+- [**Root Me**](https://www.root-me.org/) - Diversos desafios em várias categorias de segurança ofensiva.  
+- [**Hack This Site**](https://www.hackthissite.org/) - Plataforma educacional com desafios realistas.  
+- [**RingZer0 Team**](https://ringzer0ctf.com/) - Conjunto de desafios para testar habilidades técnicas.  
+- [**Cryptopals**](https://cryptopals.com/) - Desafios voltados para criptografia e segurança.  
+- [**Microcorruption**](https://microcorruption.com/) - CTF especializado em engenharia reversa.  
+
+### Eventos e Competições  
+- [**DEF CON CTF**](https://oooverflow.io/) - Uma das competições mais prestigiadas de CTF do mundo.  
+- [**Google CTF**](https://capturetheflag.withgoogle.com/) - Evento anual da Google com desafios avançados.  
+- [**Hack The Box CTF**](https://ctf.hackthebox.com/) - Competições promovidas pela HTB.  
+- [**Redpwn CTF**](https://redpwn.net/) - CTF realizado anualmente, com foco educacional.  
+- [**Cyber Apocalypse CTF (HTB)**](https://ctf.hackthebox.com/cyber-apocalypse) - CTF temático da Hack The Box.  
+- [**PlaidCTF**](https://plaidctf.com/) - CTF organizado pela Plaid Parliament of Pwning (PPP).  
+- [**FAUST CTF**](https://ctf.faust.ninja/) - Desafios criativos organizados pelo FAUST.  
+
+### Recursos e Rankings  
+- [**CTFTime**](https://ctftime.org/) - Lista de competições ativas e ranking global de times.  
+- [**Red Team Village CTF**](https://redteamvillage.io/) - CTFs focados em Red Team e exploração ofensiva.  
+- [**LiveOverflow YouTube**](https://www.youtube.com/c/LiveOverflow/) - Canal com vídeos sobre CTF e exploração.  
+- [**PentesterLab**](https://pentesterlab.com/) - Recursos pagos e gratuitos para aprendizado.  
+- [**Hacker101 CTF**](https://ctf.hacker101.com/) - CTF com desafios focados em web hacking.  
+- [**WeChall**](https://www.wechall.net/) - Agrega desafios de várias plataformas para ranking global.  
+
+** Termine uma das trilhas e marque a Hive.Connect no linkedin para ganhar acesso ao forúm exclusivo de Segurança da Informação e fazer CTFs em grupo, Análise de Malware, entre outros estudos. **
 
 ---
 **Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
