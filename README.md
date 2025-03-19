@@ -35,44 +35,44 @@ Algumas áreas da segurança da informação lidam com situações críticas e e
 
 ## Habilidades Técnicas Importantes:
 ### Fundamentos de Segurança  
-→ **Gestão de Riscos e Compliance** (ISO 27001, NIST, LGPD, GDPR)  
-→ **Criptografia e Certificados Digitais** 
+→ Gestão de Riscos e Compliance (ISO 27001, NIST, LGPD, GDPR)  
+→ Criptografia e Certificados Digitais 
 
 ### Redes e Infraestrutura Segura  
-→ **Firewalls**
-→ **IDS/IPS, DLP e EDR**  
-→ **Configuração Segura de Servidores** (Linux/Windows)  
-→ **Redes Seguras (VPNs, VLANs, Zero Trust, Wireshark)** 
+→ Firewalls  
+→ IDS/IPS, DLP e EDR  
+→ Configuração Segura de Servidores** (Linux/Windows)  
+→ Redes Seguras (VPNs, VLANs, Zero Trust, Wireshark)  
 
 ###  Análise de Vulnerabilidades 
-→ **Ferramentas:** Nmap, wireshark, graylog, syslog  
-→ **Hardening de Sistemas**  
+→ Ferramentas: Nmap, wireshark, graylog, syslog  
+→ Hardening de Sistemas  
 
 ### Monitoramento e Resposta a Incidentes  
-→ **SIEMs:** Splunk, Wazuh, Elastic  
-→ **Forense Digital e Threat Intelligence**  
-→ **Mitigação de Ataques**  
+→ SIEMs: Splunk, Wazuh, Elastic  
+→ Forense Digital e Threat Intelligence  
+→ Mitigação de Ataques    
 
 ### Automação e Scripting  
-→ **Python** (Automação de segurança, análise de logs)  
-→ **Bash & PowerShell**  
+→ Python (Automação de segurança, análise de logs)  
+→ Bash & PowerShell  
 
 ### Cloud Security  
-→ **AWS, Azure, GCP Security**  
-→ **IAM (Identity and Access Management)**  
-→ **Segurança de Contêineres (Docker, Kubernetes, DevSecOps)**  
+→ AWS, Azure, GCP Security  
+→ IAM (Identity and Access Management)  
+→ Segurança de Contêineres (Docker, Kubernetes, DevSecOps)    
 
 ## Áreas principais:
-- **Analista de Segurança da informação**  
-- **Analista de Cloud**  
-- **SOC**  
-- **Threat Intelligence**  
-- **Engenheiro de Segurança cibernética**  
-- **Pesquisador Segurança da informação**  
-- **Arquiteto Segurança da informação**  
-- **Forense Digital**  
-- **Especialista**  
-- **Cybersecurity**  
+- Analista de Segurança da informação  
+- Analista de Cloud    
+- SOC    
+- Threat Intelligence    
+- Engenheiro de Segurança cibernética    
+- Pesquisador Segurança da informação    
+- Arquiteto Segurança da informação    
+- Forense Digital    
+- Especialista    
+- Cybersecurity    
 ↳*Redteam*  
 ↳*Blueteam*  
 ↳*Orangeteam*  
@@ -80,15 +80,15 @@ Algumas áreas da segurança da informação lidam com situações críticas e e
 
 ## Título para LinkedIn:
 
-**Segurança da Informação | SOC | Análise de Vulnerabilidades | SIEM | Certificação CompTIA Security+ em andamento**  
+Segurança da Informação | SOC | Análise de Vulnerabilidades | SIEM | Certificação CompTIA Security+ em andamento    
 <br>  
-**Cybersecurity | Blue Team | Monitoramento e Resposta a Incidentes | Splunk | MITRE ATT&CK | Certificação CySA+**  
+Cybersecurity | Blue Team | Monitoramento e Resposta a Incidentes | Splunk | MITRE ATT&CK | Certificação CySA+  
 <br>  
-**Cloud Security | Segurança em AWS & Azure | IAM | Zero Trust | DevSecOps | Certificação AWS Security Specialty | AZ-500**  
+Cloud Security | Segurança em AWS & Azure | IAM | Zero Trust | DevSecOps | Certificação AWS Security Specialty | AZ-500    
 <br>  
-**Red Team | Ethical Hacking | Pentest | Exploits e Vulnerabilidades | Burp Suite | Certificação OSCP em andamento**  
+Red Team | Ethical Hacking | Pentest | Exploits e Vulnerabilidades | Burp Suite | Certificação OSCP em andamento    
 <br>  
-**Arquitetura de Segurança | Proteção de Infraestruturas Críticas | Modelagem de Ameaças | Zero Trust | CISSP | CCSP**  
+Arquitetura de Segurança | Proteção de Infraestruturas Críticas | Modelagem de Ameaças | Zero Trust | CISSP | CCSP   
 
 - **Esses são apenas alguns exemplos. Você pode criar o seu título personalizado seguindo a mesma estrutura: escolha a área que deseja atuar, destaque uma especialização dentro dessa área, inclua uma ferramenta importante relacionada e mencione uma certificação que está em processo de obtenção. Essa abordagem é chave para o sucesso.**
 
@@ -269,7 +269,7 @@ ___
 - [**Hacker101 CTF**](https://ctf.hacker101.com/) - CTF com desafios focados em web hacking.  
 - [**WeChall**](https://www.wechall.net/) - Agrega desafios de várias plataformas para ranking global.  
 
-** Termine uma das trilhas e marque a Hive.Connect no linkedin para ganhar acesso ao forúm exclusivo de Segurança da Informação e fazer CTFs em grupo, Análise de Malware, entre outros estudos. **
+ Termine uma das trilhas e marque a Hive.Connect no linkedin para ganhar acesso ao forúm exclusivo de Segurança da Informação e fazer CTFs em grupo, Análise de Malware, entre outros estudos. 
 
 ---
 
