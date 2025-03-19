@@ -369,5 +369,11 @@ ___
 | **Análise de Vulnerabilidades**   | **Nikto**                 | Open Source     | Scanner de vulnerabilidades em servidores web, verificando configurações inseguras e possíveis falhas. | [Nikto](https://cirt.net/Nikto2) |
 | **Segurança de Banco de Dados**   | **sqlmap**                | Open Source     | Ferramenta para automatizar a detecção e exploração de falhas de injeção SQL em aplicativos web. | [sqlmap](http://sqlmap.org/) |
 | **Teste de Penetração**           | **Beef Framework**        | Open Source     | Framework para penetração em aplicativos web, focado em exploração de falhas em browsers. | [Beef Framework](https://github.com/beefproject/beef) |
+
+
+<h1 align="center">Muito obrigada por chegar até aqui! 🐝</h1>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Se esse conteúdo foi útil para você, ficarei muito feliz se puder compartilhar com outras pessoas que também possam se beneficiar. A **Hive.Connect** é um espaço para aprendermos e crescermos juntos no universo da tecnologia e segurança, e cada contribuição de vocês faz toda a diferença! **compartilhe e ajude a comunidade a crescer**! Vamos continuar trocando conhecimento e fazendo a diferença no mundo de tecnologia!
+
 ---
 **Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
