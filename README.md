@@ -238,25 +238,6 @@ ___
 
 ---
 
-## Principais Ferramentas de Segurança da Informação
-
-| Categoria | Nome | Open Source/Paga | Descrição | Link |
-| :---: | :---: | :---: | :---: | :---: |
-| **Análise de Redes** | **Nmap** | Open Source | Ferramenta para descoberta de rede e auditoria de segurança, utilizada para mapear redes e identificar portas abertas. | [Nmap](https://nmap.org/) |
-| **SIEM** | **AlienVault OSSIM** | Open Source | Plataforma de gerenciamento de eventos e informações de segurança que integra diversas ferramentas de segurança. | [AlienVault OSSIM](https://cybersecurity.att.com/products/ossim) |
-| **Análise de Vulnerabilidades** | **Nessus** | Paga | Scanner de vulnerabilidades amplamente utilizado para identificar pontos fracos em sistemas e redes. | [Nessus](https://www.tenable.com/products/nessus) |
-| **Compartilhamento de Informações** | **MISP** | Open Source | Plataforma de compartilhamento de informações sobre ameaças, facilitando a coleta, armazenamento e distribuição de indicadores de comprometimento. | [MISP](https://www.misp-project.org/) |
-| **Análise de Vulnerabilidades** | **OpenVAS** | Open Source | Plataforma robusta para varreduras de vulnerabilidades, permitindo a detecção de falhas de segurança em diversos serviços e aplicações. | [OpenVAS](https://www.greenbone.net/en/openvas-community-edition/) |
-| **Detecção de Intrusões** | **Snort** | Open Source | Sistema de prevenção e detecção de intrusões em rede que analisa o tráfego em tempo real. | [Snort](https://www.snort.org/) |
-| **Monitoramento de Segurança** | **Wazuh** | Open Source | Plataforma de monitoramento de segurança que oferece detecção de ameaças, integridade de arquivos e resposta a incidentes. | [Wazuh](https://wazuh.com/) |
-| **Análise de Redes** | **Wireshark** | Open Source | Ferramenta de análise de protocolos de rede que captura e interage com os dados trafegados em uma rede. | [Wireshark](https://www.wireshark.org/) |
-| **Firewall** | **Untangle** | Open Source | Fornece proteção contra spam, vírus e spyware, além de filtragem na web e funcionalidades de firewall. | [Untangle](https://www.untangle.com/) |
-| **Monitoramento de Redes** | **Network Security Toolkit (NST)** | Open Source | Combina uma variedade de aplicativos de código aberto para monitorar tráfego, intrusões e muito mais. | [NST](https://networksecuritytoolkit.org/nst/) |
-| **Auditoria de Segurança** | **Bastille Linux** | Open Source | Ferramenta que oferece um bloqueio personalizado para máquinas Linux, baseado em respostas sobre segurança. | [Bastille Linux](https://bastille-linux.sourceforge.io/) |
-| **Análise de Malware** | **Cuckoo Sandbox** | Open Source | Sistema de análise automatizada de malware que permite a observação do comportamento de arquivos suspeitos. | [Cuckoo Sandbox](https://cuckoosandbox.org/) |
-| **Forense Digital** | **Autopsy** | Open Source | Interface gráfica para o The Sleuth Kit, utilizada para investigações forenses de discos rígidos e smartphones. | [Autopsy](https://www.sleuthkit.org/autopsy/) |
-
----
 <h1 align="center">Plataformas e Eventos de CTF</h1>
 
 ### Plataformas Online  
@@ -289,6 +270,25 @@ ___
 - [**WeChall**](https://www.wechall.net/) - Agrega desafios de várias plataformas para ranking global.  
 
 ** Termine uma das trilhas e marque a Hive.Connect no linkedin para ganhar acesso ao forúm exclusivo de Segurança da Informação e fazer CTFs em grupo, Análise de Malware, entre outros estudos. **
+
+---
+## Principais Ferramentas
+
+| Categoria | Nome | Open Source/Paga | Descrição | Link |
+| :---: | :---: | :---: | :---: | :---: |
+| **Análise de Redes** | **Nmap** | Open Source | Ferramenta para descoberta de rede e auditoria de segurança, utilizada para mapear redes e identificar portas abertas. | [Nmap](https://nmap.org/) |
+| **SIEM** | **AlienVault OSSIM** | Open Source | Plataforma de gerenciamento de eventos e informações de segurança que integra diversas ferramentas de segurança. | [AlienVault OSSIM](https://cybersecurity.att.com/products/ossim) |
+| **Análise de Vulnerabilidades** | **Nessus** | Paga | Scanner de vulnerabilidades amplamente utilizado para identificar pontos fracos em sistemas e redes. | [Nessus](https://www.tenable.com/products/nessus) |
+| **Compartilhamento de Informações** | **MISP** | Open Source | Plataforma de compartilhamento de informações sobre ameaças, facilitando a coleta, armazenamento e distribuição de indicadores de comprometimento. | [MISP](https://www.misp-project.org/) |
+| **Análise de Vulnerabilidades** | **OpenVAS** | Open Source | Plataforma robusta para varreduras de vulnerabilidades, permitindo a detecção de falhas de segurança em diversos serviços e aplicações. | [OpenVAS](https://www.greenbone.net/en/openvas-community-edition/) |
+| **Detecção de Intrusões** | **Snort** | Open Source | Sistema de prevenção e detecção de intrusões em rede que analisa o tráfego em tempo real. | [Snort](https://www.snort.org/) |
+| **Monitoramento de Segurança** | **Wazuh** | Open Source | Plataforma de monitoramento de segurança que oferece detecção de ameaças, integridade de arquivos e resposta a incidentes. | [Wazuh](https://wazuh.com/) |
+| **Análise de Redes** | **Wireshark** | Open Source | Ferramenta de análise de protocolos de rede que captura e interage com os dados trafegados em uma rede. | [Wireshark](https://www.wireshark.org/) |
+| **Firewall** | **Untangle** | Open Source | Fornece proteção contra spam, vírus e spyware, além de filtragem na web e funcionalidades de firewall. | [Untangle](https://www.untangle.com/) |
+| **Monitoramento de Redes** | **Network Security Toolkit (NST)** | Open Source | Combina uma variedade de aplicativos de código aberto para monitorar tráfego, intrusões e muito mais. | [NST](https://networksecuritytoolkit.org/nst/) |
+| **Auditoria de Segurança** | **Bastille Linux** | Open Source | Ferramenta que oferece um bloqueio personalizado para máquinas Linux, baseado em respostas sobre segurança. | [Bastille Linux](https://bastille-linux.sourceforge.io/) |
+| **Análise de Malware** | **Cuckoo Sandbox** | Open Source | Sistema de análise automatizada de malware que permite a observação do comportamento de arquivos suspeitos. | [Cuckoo Sandbox](https://cuckoosandbox.org/) |
+| **Forense Digital** | **Autopsy** | Open Source | Interface gráfica para o The Sleuth Kit, utilizada para investigações forenses de discos rígidos e smartphones. | [Autopsy](https://www.sleuthkit.org/autopsy/) |
 
 ---
 **Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
