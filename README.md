@@ -92,6 +92,22 @@ Algumas áreas da segurança da informação lidam com situações críticas e e
 
 - **Esses são apenas alguns exemplos. Você pode criar o seu título personalizado seguindo a mesma estrutura: escolha a área que deseja atuar, destaque uma especialização dentro dessa área, inclua uma ferramenta importante relacionada e mencione uma certificação que está em processo de obtenção. Essa abordagem é chave para o sucesso.**
 
+## Links Importantes para segurança da informação:
+| Categoria | Nome | Descrição | Link | 
+| :---: | :---: | :---: |  :---: | 
+| **Mapa de Ataque** | Kaspersky Cyberthreat Real-Time Map | Mapa em tempo real que mostra a origem e o destino de ciberataques ao redor do mundo | [Kaspersky Map](https://cybermap.kaspersky.com/) |
+| **Mapa de Ataque** | Bitdefender Threat Map | Exibe em tempo real a localização e origem de ataques cibernéticos, com dados sobre ameaças globais | [Bitdefender Map](https://threatmap.bitdefender.com/?adobe_mc=MCMID%3D49000288476365260246618629159961307977%7CMCORGID%3D0E920C0F53DA9E9B0A490D45%2540AdobeOrg%7CTS%3D1738627201) |
+| **Notícias** | Caverna Tech | Em site com notícias focadas em tecnologia e segurança cibernética em Português | [Caveira Tech](https://caveiratech.com/) |
+| **Notícias** | The Hacker News | Portal de notícias com atualizações sobre vulnerabilidades e incidentes | [The Hacker News](https://thehackernews.com/) |
+| **Notícias** | TBleeping Computer | Oferece notícias diárias sobre cibersegurança, hacks e vulnerabilidades | [Bleeping Computer](https://www.bleepingcomputer.com/) |
+| **Ferramenta** | VirusTotal | Analisa arquivos e URLs em busca de vírus, malware e outras ameaças | [Virus Total](https://www.virustotal.com/gui/home/upload) |
+| **Ferramenta** | CyberChef  | Análise de dados e manipulação de texto, ideal para profissionais de segurança | [CyberChef](https://toolbox.itsec.tamu.edu/) |
+| **Ferramenta** | Shodan | Um motor de busca para dispositivos IoT que ajuda a identificar vulnerabilidades | [Shodan](https://www.shodan.io/) |
+| **Ferramenta** | Censys | Motor de busca de segurança para monitoramento de redes e serviços expostos na internet| [Censys](https://search.censys.io/) |
+| **Ferramenta** | Have I Been Pwned | Verifique se suas credenciais foram expostas em brechas de segurança conhecidas | [Have I Been Pwned](https://haveibeenpwned.com/) |
+| **CVE** | CVE Details | Plataforma para pesquisa detalhada sobre CVEs | [CVE Details](https://www.cvedetails.com/) |
+| **Vulnerabilidades** | Exploit Database |  Repositório de exploits conhecidos, atualizado com detalhes sobre CVEs e ataques | [Exploit DataBase](https://www.exploit-db.com/) |
+| **Recursos de Pentest** | PentestTools | Para agrupar ferramentas, novidades e dicas para pentesters | [PentestTools](https://pentesttools.net/) |
 ___
 ## O que você verá em cada módulo:</h1>
 <h1 align="center">Fudamentos</h1>
