@@ -93,7 +93,7 @@ Algumas áreas da segurança da informação lidam com situações críticas e e
 - **Esses são apenas alguns exemplos. Você pode criar o seu título personalizado seguindo a mesma estrutura: escolha a área que deseja atuar, destaque uma especialização dentro dessa área, inclua uma ferramenta importante relacionada e mencione uma certificação que está em processo de obtenção. Essa abordagem é chave para o sucesso.**
 
 ---
-##Links Importantes para segurança da informação  
+## Links Importantes para segurança da informação  
 
 | Categoria | Nome | Descrição | Link | 
 | :---: | :---: | :---: |  :---: | 
@@ -112,23 +112,6 @@ Algumas áreas da segurança da informação lidam com situações críticas e e
 | **Recursos de Pentest** | PentestTools | Para agrupar ferramentas, novidades e dicas para pentesters | [PentestTools](https://pentesttools.net/) |
 ___
 ## O que você verá em cada módulo:</h1>
-<h1 align="center">Fudamentos</h1>
-
-```mermaid
-    graph LR;
-      A[Fundamentos de Segurança da informação]-->B[Introdução à Segurança Cibernética];
-      A-->C[Conceitos de base];
-      B-->D[Cenário de Ameaças];
-      B-->E[Defesa Contra Ameaças Online];
-      C-->F[Segurança em Nuvem];
-      C-->G[Linux para Segurança];
-      G-->H[Wireshark e Análise de Tráfego];
-      F-->I[Cybersecurity Essentials];
-      I-->J[Analista Júnior de Cibersegurança];
-      J-->K[Ethical Hacking];
-
-      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/fundamentos" "Veja o repositório dos Fundamentos"
-```
 <h1 align="center">Fudamentos</h1>
 
 ```mermaid
@@ -200,5 +183,33 @@ ___
 
       click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/avançado "Veja o repositório Avançado"
 ```
+---
+## Certificações
+→ **CompTIA Security+ ** Para quem está começando.
+→ **CEH** Para quem quer se especializar em hacking ético.
+→ **GIAC Security Essentials (GSEC)** Para uma abordagem prática.
+→ **CISSP** Para uma carreira avançada em segurança (geralmente, após alguns anos de experiência).
+→ **CISM** Para gerentes de segurança de TI.
+→ **CISA** Para profissionais focados em auditoria e controle.
+→ **CCSP** Para quem trabalha com segurança em nuvem.
+→ **GCIH** Para especialistas em resposta a incidentes.
+→ **CTIA** Para analistas de ameaças cibernéticas.
+→ **CDRE** Para profissionais de continuidade de negócios e recuperação de desastres
+
+### Acadi-TI  
+- [Pós-Graduação em Cibersegurança Acadi-TI + CEH](https://acaditi.com.br/pos-graduacao-em-ciberseguranca-ofensiva/)
+
+### FIAP  
+- [Offensive Cyber Security - Red Team Operations](https://postech.fiap.com.br/curso/offensive-cyber-security-red-team-ops/)  
+- [Defensive Cyber Security - Blue Team Operations](https://postech.fiap.com.br/curso/defensive-cyber-security-blue-team-ops/)  
+
+### PUCPR  
+- [Pós-Graduação em Cibersegurança](https://www.pucpr.br/cursos-especializacao-e-mba/ciberseguranca/)  
+
+### IBSEC  
+- [Defesa Cibernética com Ênfase em Inteligência Artificial, Forense e Hacker Ético](https://ibsec.com.br/pos-graduacao/defesa-cibernetica-com-enfase-em-inteligencia-artificial-forense-e-hacker-etico/)
+Impacta - Cyber Security
+MBA em Cyber Security | Faculdade Impacta
+
 ---
 **Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
