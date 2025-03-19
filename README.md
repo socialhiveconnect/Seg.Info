@@ -91,5 +91,25 @@ Algumas áreas da segurança da informação lidam com situações críticas e e
 **Arquitetura de Segurança | Proteção de Infraestruturas Críticas | Modelagem de Ameaças | Zero Trust | CISSP | CCSP**  
 
 - **Esses são apenas alguns exemplos. Você pode criar o seu título personalizado seguindo a mesma estrutura: escolha a área que deseja atuar, destaque uma especialização dentro dessa área, inclua uma ferramenta importante relacionada e mencione uma certificação que está em processo de obtenção. Essa abordagem é chave para o sucesso.**
+
+<h1 align="center"> O que você verá em cada módulo:</h1>
+
+##Fudamentos
+```mermaid
+    graph LR;
+      A[Fundamentos de Segurança da informação]-->B[Introdução à Segurança Cibernética];
+      A-->C[Conceitos de base];
+      B-->D[Cenário de Ameaças];
+      B-->E[Defesa Contra Ameaças Online];
+      C-->F[Segurança em Nuvem];
+      C-->G[Linux para Segurança];
+      G-->H[Wireshark e Análise de Tráfego];
+      F-->I[Cybersecurity Essentials];
+      I-->J[Analista Júnior de Cibersegurança];
+      J-->K[Ethical Hacking];
+
+      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/fundamentos" "Veja o repositório dos Fundamentos"
+```
+
 ---
 **Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
