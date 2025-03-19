@@ -184,6 +184,41 @@ ___
       click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/avançado "Veja o repositório Avançado"
 ```
 ---
+
+<h1 align="center">Pós-Graduações</h1>
+
+### USP (LARC)
+- [MBA em Cibersegurança: Infraestrutura, Políticas e Gerenciamento (EAD)](https://cursos.larc.usp.br/mba-ciberseguranca/)
+
+### Acadi-TI  
+- [Pós-Graduação em Cibersegurança Acadi-TI + CEH](https://acaditi.com.br/pos-graduacao-em-ciberseguranca-ofensiva/)
+
+### FIAP  
+- [Offensive Cyber Security - Red Team Operations](https://postech.fiap.com.br/curso/offensive-cyber-security-red-team-ops/)  
+- [Defensive Cyber Security - Blue Team Operations](https://postech.fiap.com.br/curso/defensive-cyber-security-blue-team-ops/)  
+- [MBA em Cyber Security Governance & Management](https://www.fiap.com.br/mba/mba-em-cyber-security-governance-management/)
+
+### PUCPR  
+- [Pós-Graduação em Cibersegurança](https://www.pucpr.br/cursos-especializacao-e-mba/ciberseguranca/)  
+
+### IBSEC  
+- [Defesa Cibernética com Ênfase em Inteligência Artificial, Forense e Hacker Ético](https://ibsec.com.br/pos-graduacao/defesa-cibernetica-com-enfase-em-inteligencia-artificial-forense-e-hacker-etico/)
+
+### FGV Educação Executiva
+- [MBA em Cibersegurança](https://educacao-executiva.fgv.br/cursos/live/mba-live/mba-em-ciberseguranca)
+
+### XP Educação
+- [Pós-graduação em Segurança da Informação e Cibersegurança](https://www.xpeducacao.com.br/pos-graduacao/pos-seguranca-cibernetica)
+
+### Anhanguera
+- [MBA em Cybersecurity e Cybercrimes](https://www.posanhanguera.com.br/mba-em-cybersecurity-e-cybercrimes-anhanguera-ead-6-meses/p)
+
+### Nova School of Business and Economics
+- [Pós-Graduação Online em Gestão de Cibersegurança](https://www.novasbe.unl.pt/pt/cursos/formacao-de-executivos/programas-abertos/ia-data-e-digital/pos-graduacao-online-gestao-ciberseguranca)
+
+### UNINASSAU
+- [Especialização em Segurança Cibernética](https://posead.uninassau.edu.br/nossos-cursos/especializacao-em-seguranca-cibernetica/801/60/digital)
+
 ## Certificações
 → **CompTIA Security+ ** Para quem está começando.
 → **CEH** Para quem quer se especializar em hacking ético.
@@ -195,21 +230,6 @@ ___
 → **GCIH** Para especialistas em resposta a incidentes.
 → **CTIA** Para analistas de ameaças cibernéticas.
 → **CDRE** Para profissionais de continuidade de negócios e recuperação de desastres
-
-### Acadi-TI  
-- [Pós-Graduação em Cibersegurança Acadi-TI + CEH](https://acaditi.com.br/pos-graduacao-em-ciberseguranca-ofensiva/)
-
-### FIAP  
-- [Offensive Cyber Security - Red Team Operations](https://postech.fiap.com.br/curso/offensive-cyber-security-red-team-ops/)  
-- [Defensive Cyber Security - Blue Team Operations](https://postech.fiap.com.br/curso/defensive-cyber-security-blue-team-ops/)  
-
-### PUCPR  
-- [Pós-Graduação em Cibersegurança](https://www.pucpr.br/cursos-especializacao-e-mba/ciberseguranca/)  
-
-### IBSEC  
-- [Defesa Cibernética com Ênfase em Inteligência Artificial, Forense e Hacker Ético](https://ibsec.com.br/pos-graduacao/defesa-cibernetica-com-enfase-em-inteligencia-artificial-forense-e-hacker-etico/)
-Impacta - Cyber Security
-MBA em Cyber Security | Faculdade Impacta
 
 ---
 **Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
