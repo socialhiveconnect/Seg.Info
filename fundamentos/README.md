@@ -7,7 +7,6 @@
 que você realize esse desafio, pois ele será a base para os próximos passos. Tente seguir a trilha de cursos conforme a sequência 
 a baixo, qualquer dúvida perginte em nosso servidor no Discord. Dedique-se e aproveite ao máximo essa oportunidade de 
 aprimoramento!
--->K[Ethical Hacking];
 
 ```mermaid
     graph TD;
