@@ -92,9 +92,10 @@ Algumas áreas da segurança da informação lidam com situações críticas e e
 
 - **Esses são apenas alguns exemplos. Você pode criar o seu título personalizado seguindo a mesma estrutura: escolha a área que deseja atuar, destaque uma especialização dentro dessa área, inclua uma ferramenta importante relacionada e mencione uma certificação que está em processo de obtenção. Essa abordagem é chave para o sucesso.**
 
-<h1 align="center"> O que você verá em cada módulo:</h1>
+___
+## O que você verá em cada módulo:</h1>
+<h1 align="center">Fudamentos</h1>
 
-##Fudamentos
 ```mermaid
     graph LR;
       A[Fundamentos de Segurança da informação]-->B[Introdução à Segurança Cibernética];
