@@ -180,7 +180,7 @@ ___
       I-->J[Analista Júnior de Cibersegurança];
       J-->K[Ethical Hacking];
 
-      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/avan%C3%A7ado "Veja o repositório dos Fundamentos"
+      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/avançado "Veja o repositório dos Fundamentos"
 ```
 ---
 **Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
