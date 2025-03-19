@@ -270,70 +270,73 @@ ___
 - [**WeChall**](https://www.wechall.net/) - Agrega desafios de várias plataformas para ranking global.  
 
 ** Termine uma das trilhas e marque a Hive.Connect no linkedin para ganhar acesso ao forúm exclusivo de Segurança da Informação e fazer CTFs em grupo, Análise de Malware, entre outros estudos. **
+
 ---
+
 ## Canais no YouTube sobre Segurança da Informação
 
 - [HackerSploit](https://www.youtube.com/c/HackerSploit)  
-  Canal focado em tutoriais sobre hacking ético, testes de penetração, análise de vulnerabilidades e outras áreas de segurança da informação.
+  Hacking ético, testes de penetração, análise de vulnerabilidades e outras áreas de segurança da informação.
 
 - [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)  
-  Canal com conteúdo sobre hacking ético, pentesting e segurança em redes, com muitos tutoriais e dicas práticas.
+  Hacking ético, pentesting e segurança em redes, com muitos tutoriais e dicas práticas.
 
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow)  
-  Canal que cobre temas como hacking, CTFs (Capture The Flag), e técnicas de segurança em sistemas e redes.
+  Hacking, CTFs (Capture The Flag), e técnicas de segurança em sistemas e redes.
 
 - [NetworkChuck](https://www.youtube.com/c/NetworkChuck)  
-  Canal com uma abordagem acessível sobre redes, segurança cibernética, hacking ético e outras áreas da TI.
+  Abordagem acessível sobre redes, segurança cibernética, hacking ético e outras áreas da TI.
 
 - [Computerphile](https://www.youtube.com/c/Computerphile)  
-  Canal com explicações detalhadas sobre conceitos de segurança, criptografia, hacking e ciências computacionais.
+  Explicações detalhadas sobre conceitos de segurança, criptografia, hacking e ciências computacionais.
 
 - [David Bombal](https://www.youtube.com/c/DavidBombal)  
-  Canal com foco em redes, segurança de TI, hacking ético e exames de certificação como CCNA e CompTIA.
+  Redes, segurança de TI, hacking ético e exames de certificação como CCNA e CompTIA.
 
 - [IppSec](https://www.youtube.com/c/IppSec)  
-  Canal focado em resolver CTFs e hacks em ambientes de segurança, com explicações detalhadas sobre a execução dos ataques.
+  Resolver CTFs e hacks em ambientes de segurança, com explicações detalhadas sobre a execução dos ataques.
 
 - [SecPro](https://www.youtube.com/c/SecPro)  
-  Canal voltado para tutoriais de hacking ético, análise de segurança e vulnerabilidades em sistemas e redes.
+  Tutoriais de hacking ético, análise de segurança e vulnerabilidades em sistemas e redes.
 
 - [Null Byte](https://www.youtube.com/c/NullByteWHT)  
-  Canal com conteúdo voltado para hacking ético, tutoriais de pentesting, segurança em redes e ferramentas usadas em segurança cibernética.
+  Hacking ético, tutoriais de pentesting, segurança em redes e ferramentas usadas em segurança cibernética.
 
 - [Hak5](https://www.youtube.com/c/Hak5Darren)  
-  Canal que cobre tópicos de segurança de redes, hacking, pentesting e hacking em hardware, além de notícias de segurança.
+  Segurança de redes, hacking, pentesting e hacking em hardware, além de notícias de segurança.
 
 - [Professor Messer](https://www.youtube.com/c/ProfessorMesser)  
-  Canal educativo focado em certificações de TI e segurança da informação, como CompTIA A+, Network+ e Security+.
+  Focado em certificações de TI e segurança da informação, como CompTIA A+, Network+ e Security+.
 
 - [John Hammond](https://www.youtube.com/c/JohnHammond010)  
-  Canal que aborda segurança ofensiva, pentesting e desafios de segurança como CTFs, com explicações detalhadas sobre técnicas de ataque.
+  Segurança ofensiva, pentesting e desafios de segurança como CTFs, com explicações detalhadas sobre técnicas de ataque.
 
 - [PentesterLab](https://www.youtube.com/c/PentesterLab)  
-  Canal voltado para treinamento prático de segurança ofensiva, com tutoriais sobre como encontrar e explorar vulnerabilidades.
+  Treinamento prático de segurança ofensiva, com tutoriais sobre como encontrar e explorar vulnerabilidades.
 
 - [Black Hills Information Security](https://www.youtube.com/c/BlackHillsInformationSecurity)  
-  Canal com webinars e apresentações sobre segurança de TI, pentesting e testes de invasão, com análises profundas e discussão sobre técnicas avançadas.
+ Webinars e apresentações sobre segurança de TI, pentesting e testes de invasão, com análises profundas e discussão sobre técnicas avançadas.
 
 - [SANS Institute](https://www.youtube.com/c/SANSInstitute)  
-  Canal que fornece conteúdo educacional de alta qualidade sobre segurança cibernética, incluindo webinars e tutoriais práticos.
+ Fornece conteúdo educacional de alta qualidade sobre segurança cibernética, incluindo webinars e tutoriais práticos.
 
 - [Cyber Security Awareness](https://www.youtube.com/c/CyberSecurityAwareness)  
-  Canal com foco em conscientização de segurança cibernética, com dicas práticas sobre como proteger dados e dispositivos contra ameaças.
+ Foco em conscientização de segurança cibernética, com dicas práticas sobre como proteger dados e dispositivos contra ameaças.
 
 - [TechSavy Solutions](https://www.youtube.com/c/TechSavySolutions)  
-  Canal com conteúdo educacional sobre segurança de redes, hacking ético e análise de vulnerabilidades.
+  Conteúdo educacional sobre segurança de redes, hacking ético e análise de vulnerabilidades.
 
 - [The IT Support Center](https://www.youtube.com/c/TheITSupportCenter)  
-  Canal que fornece tutoriais sobre segurança da informação, técnicas de hacking e como proteger redes e sistemas de TI.
+  Fornece tutoriais sobre segurança da informação, técnicas de hacking e como proteger redes e sistemas de TI.
 
 - [CyberSecTuts](https://www.youtube.com/c/CyberSecTuts)  
-  Canal com foco em hacking ético, pentesting e ferramentas de segurança cibernética, abordando temas como vulnerabilidades e ataques.
+ Hacking ético, pentesting e ferramentas de segurança cibernética, abordando temas como vulnerabilidades e ataques.
 
 - [Techno Tim](https://www.youtube.com/c/TechnoTim)  
   Canal que cobre tópicos sobre segurança em redes, monitoramento de segurança e boas práticas para proteger sistemas de TI.
 
 ---
+
 ## Principais Ferramentas
 
 | Categoria | Nome | Open Source/Paga | Descrição | Link |
