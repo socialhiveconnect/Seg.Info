@@ -7,23 +7,12 @@
 que você realize esse desafio, pois ele será a base para os próximos passos. Tente seguir a trilha de cursos conforme a sequência 
 a baixo, qualquer dúvida perginte em nosso servidor no Discord. Dedique-se e aproveite ao máximo essa oportunidade de 
 aprimoramento!
-```mermaid
-  graph LR;
-      A[Introdução à Segurança Cibernética]-->B[Cenário de Ameaças];
-      A-->C[Fundamentos de Cibersegurança];
-      B-->D[Defesa Contra Ameaças Online];
-      C-->E[Segurança em TI];
-      E-->F[Segurança em Nuvem];
-      D-->G[Linux para Segurança];
-      G-->H[Wireshark e Análise de Tráfego];
-      F-->I[Cybersecurity Essentials];
-      I-->J[Analista Júnior de Cibersegurança];
-      J-->K[Ethical Hacking];
-```
+-->K[Ethical Hacking];
+
 ```mermaid
     graph TD;
-      A[Fundamentos de Cibersegurança]-->B[Introdução à Segurança Cibernética];
-      A-->C[Fundamentos de Segurança em TI];
+      A[Fundamentos de Segurança da informação]-->B[Introdução à Segurança Cibernética];
+      A-->C[Conceitos de base];
       B-->D[Cenário de Ameaças];
       B-->E[Defesa Contra Ameaças Online];
       C-->F[Segurança em Nuvem];
@@ -32,31 +21,6 @@ aprimoramento!
       F-->I[Cybersecurity Essentials];
       I-->J[Analista Júnior de Cibersegurança];
       J-->K[Ethical Hacking];
-```
-
-```mermaid
- graph LR;
-      subgraph A[Fundamentos de Cibersegurança]
-          direction TB;
-          A1[Introdução à Segurança Cibernética]-->A2[Cenário de Ameaças];
-          A1-->A3[Defesa Contra Ameaças Online];
-      end
-
-      subgraph B[Fundamentos de TI e Ferramentas]
-          direction TB;
-          B1[Segurança em TI]-->B2[Segurança em Nuvem];
-          B1-->B3[Linux para Segurança];
-          B3-->B4[Wireshark e Análise de Tráfego];
-      end
-
-      subgraph C[Avançado]
-          direction TB;
-          C1[Cybersecurity Essentials]-->C2[Analista Júnior de Cibersegurança];
-          C2-->C3[Ethical Hacking];
-      end
-
-      A1-->B1;
-      B2-->C1;
 ```
 
 ## Fundamentos:
@@ -108,8 +72,16 @@ aprimoramento!
 
 
 ## O que você deve saber ao terminar essa trilha:
+- **Fundamentos de Cibersegurança:** Compreensão de ameaças cibernéticas, princípios de segurança (CIA), e proteção de dados pessoais.  
+- **Análise e Defesa Contra Ameaças:** Identificação e defesa contra ataques, resposta a incidentes e minimização de danos.  
+- **Ferramentas e Técnicas de Segurança:** Uso de ferramentas como Wireshark e Nmap para análise de tráfego e práticas de segurança em nuvem.  
+- **Segurança em Redes:** Monitoramento de redes, implementação de protocolos de segurança e gestão de identidades e acessos.  
+- **Hacking Ético Básico:** Realização de testes de intrusão e uso de ferramentas como Metasploit e Nmap.  
+- **Segurança de Sistemas e Aplicações:** Desenvolvimento seguro, criptografia e proteção de dados.  
+- **Segurança Cibernética:** Criação de políticas de segurança, conformidade com regulamentações e planejamento de continuidade de negócios.  
+- **Kali Linux:** Subir uma máquina virtual no virtual box, com configurações básicas.  
 
-
+## Orientações Finais
 &nbsp;&nbsp;&nbsp;&nbsp;Após a conclusão dos cursos, não se esqueça de realizar o exercício, especialmente se este for seu primeiro contato com Segurança da Informação.   
 &nbsp;&nbsp;&nbsp;&nbsp;Sempre compartilhe seus novos certificados no LinkedIn para aumentar sua visibilidade e destacar seu desenvolvimento profissional.    
 &nbsp;&nbsp;&nbsp;&nbsp;Esta foi uma introdução essencial ao tema, que servirá como base para os próximos módulos. No próximo, vamos explorar ferramentas que ajudarão a aplicar esses conceitos na prática e aprimorar suas habilidades na área.   
