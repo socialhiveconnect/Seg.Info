@@ -111,6 +111,76 @@ ___
 
       click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/fundamentos" "Veja o repositório dos Fundamentos"
 ```
+<h1 align="center">Fudamentos</h1>
 
+```mermaid
+    graph LR;
+      A[Fundamentos de Segurança da informação]-->B[Introdução à Segurança Cibernética];
+      A-->C[Conceitos de base];
+      B-->D[Cenário de Ameaças];
+      B-->E[Defesa Contra Ameaças Online];
+      C-->F[Segurança em Nuvem];
+      C-->G[Linux para Segurança];
+      G-->H[Wireshark e Análise de Tráfego];
+      F-->I[Cybersecurity Essentials];
+      I-->J[Analista Júnior de Cibersegurança];
+      J-->K[Ethical Hacking];
+
+      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/fundamentos" "Veja o repositório dos Fundamentos"
+```
+
+<h1 align="center">Iniciante</h1>
+
+```mermaid
+    graph LR;
+      A[Iniciante em Segurança da informação]-->B[Introdução à Segurança Cibernética];
+      A-->C[Conceitos de base];
+      B-->D[Cenário de Ameaças];
+      B-->E[Defesa Contra Ameaças Online];
+      C-->F[Segurança em Nuvem];
+      C-->G[Linux para Segurança];
+      G-->H[Wireshark e Análise de Tráfego];
+      F-->I[Cybersecurity Essentials];
+      I-->J[Analista Júnior de Cibersegurança];
+      J-->K[Ethical Hacking];
+
+      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/iniciante "Veja o repositório dos Fundamentos"
+```
+
+<h1 align="center">Intermediário</h1>
+
+```mermaid
+    graph LR;
+      A[Intermediário em Segurança da informação]-->B[Introdução à Segurança Cibernética];
+      A-->C[Conceitos de base];
+      B-->D[Cenário de Ameaças];
+      B-->E[Defesa Contra Ameaças Online];
+      C-->F[Segurança em Nuvem];
+      C-->G[Linux para Segurança];
+      G-->H[Wireshark e Análise de Tráfego];
+      F-->I[Cybersecurity Essentials];
+      I-->J[Analista Júnior de Cibersegurança];
+      J-->K[Ethical Hacking];
+
+      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/intermediario" "Veja o repositório dos Fundamentos"
+```
+
+<h1 align="center">Avançado</h1>
+
+```mermaid
+    graph LR;
+      A[Avançados em Segurança da informação]-->B[Introdução à Segurança Cibernética];
+      A-->C[Conceitos de base];
+      B-->D[Cenário de Ameaças];
+      B-->E[Defesa Contra Ameaças Online];
+      C-->F[Segurança em Nuvem];
+      C-->G[Linux para Segurança];
+      G-->H[Wireshark e Análise de Tráfego];
+      F-->I[Cybersecurity Essentials];
+      I-->J[Analista Júnior de Cibersegurança];
+      J-->K[Ethical Hacking];
+
+      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/avan%C3%A7ado "Veja o repositório dos Fundamentos"
+```
 ---
 **Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
