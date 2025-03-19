@@ -110,6 +110,11 @@ Algumas áreas da segurança da informação lidam com situações críticas e e
 | **CVE** | CVE Details | Plataforma para pesquisa detalhada sobre CVEs | [CVE Details](https://www.cvedetails.com/) |
 | **Vulnerabilidades** | Exploit Database |  Repositório de exploits conhecidos, atualizado com detalhes sobre CVEs e ataques | [Exploit DataBase](https://www.exploit-db.com/) |
 | **Recursos de Pentest** | PentestTools | Para agrupar ferramentas, novidades e dicas para pentesters | [PentestTools](https://pentesttools.net/) |
+| **Serviço** | Temp Mail | Serviço de e-mail temporário para proteger sua privacidade e evitar spam. | [Temp Mail](https://temp-mail.org/pt/) |
+| **Repositório** | The Art of Hacking | Repositório com diversos materiais, ferramentas e recursos para cibersegurança | [h4cker](https://github.com/The-Art-of-Hacking/h4cker) |
+| **Repositório** | OWASP Cheat Sheet Series | Coleção de cheatsheets para auxiliar a aplicar práticas de segurança | [OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries) |
+| **Repositório** | Metasploit Framework | Plataforma avançada para desenvolvimento, teste e execução de exploits contra máquinas remotas. | [Metasploit Framework](https://github.com/rapid7/metasploit-framework) |
+| **Repositório** | Awesome Security | Lista curada de recursos de segurança, incluindo livros, ferramentas e artigos. | [Awesome Security](https://github.com/sbilly/awesome-security) |
 ___
 ## O que você verá em cada módulo:</h1>
 <h1 align="center">Fudamentos</h1>
@@ -220,16 +225,16 @@ ___
 - [Especialização em Segurança Cibernética](https://posead.uninassau.edu.br/nossos-cursos/especializacao-em-seguranca-cibernetica/801/60/digital)
 
 ## Certificações
-→ **CompTIA Security+ ** Para quem está começando.
-→ **CEH** Para quem quer se especializar em hacking ético.
-→ **GIAC Security Essentials (GSEC)** Para uma abordagem prática.
-→ **CISSP** Para uma carreira avançada em segurança (geralmente, após alguns anos de experiência).
-→ **CISM** Para gerentes de segurança de TI.
-→ **CISA** Para profissionais focados em auditoria e controle.
-→ **CCSP** Para quem trabalha com segurança em nuvem.
-→ **GCIH** Para especialistas em resposta a incidentes.
-→ **CTIA** Para analistas de ameaças cibernéticas.
-→ **CDRE** Para profissionais de continuidade de negócios e recuperação de desastres
+→ **CompTIA Security+ ** Para quem está começando.  
+→ **CEH** Para quem quer se especializar em hacking ético.  
+→ **GIAC Security Essentials (GSEC)** Para uma abordagem prática.  
+→ **CISSP** Para uma carreira avançada em segurança (geralmente, após alguns anos de experiência).  
+→ **CISM** Para gerentes de segurança de TI.  
+→ **CISA** Para profissionais focados em auditoria e controle.  
+→ **CCSP** Para quem trabalha com segurança em nuvem.  
+→ **GCIH** Para especialistas em resposta a incidentes.  
+→ **CTIA** Para analistas de ameaças cibernéticas.  
+→ **CDRE** Para profissionais de continuidade de negócios e recuperação de desastres.  
 
 ---
 **Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
