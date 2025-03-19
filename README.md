@@ -77,7 +77,7 @@ Algumas áreas da segurança da informação lidam com situações críticas e e
 ↳*Blueteam*  
 ↳*Orangeteam*  
 ↳*Whiteteam*
-
+---
 ## Título para LinkedIn:
 
 **Segurança da Informação | SOC | Análise de Vulnerabilidades | SIEM | Certificação CompTIA Security+ em andamento**  
@@ -92,6 +92,7 @@ Algumas áreas da segurança da informação lidam com situações críticas e e
 
 - **Esses são apenas alguns exemplos. Você pode criar o seu título personalizado seguindo a mesma estrutura: escolha a área que deseja atuar, destaque uma especialização dentro dessa área, inclua uma ferramenta importante relacionada e mencione uma certificação que está em processo de obtenção. Essa abordagem é chave para o sucesso.**
 
+---
 ## Links Importantes para segurança da informação:
 | Categoria | Nome | Descrição | Link | 
 | :---: | :---: | :---: |  :---: | 
