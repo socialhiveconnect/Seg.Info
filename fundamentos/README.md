@@ -81,6 +81,19 @@ aprimoramento!
 - **Segurança Cibernética:** Criação de políticas de segurança, conformidade com regulamentações e planejamento de continuidade de negócios.  
 - **Kali Linux:** Subir uma máquina virtual no virtual box, com configurações básicas.  
 
+## Livros  
+**Linux Guia Prático** - Daniel J. Barrett  
+↳ [Link para compra na Amazon](https://www.amazon.com.br/Linux-Guia-Pr%C3%A1tico-Comandos-Essenciais/dp/8575229117/ref=asc_df_8575229117/?tag=googleshopp00-20&linkCode=df0&hvadid=709965221219&hvpos=&hvnetw=g&hvrand=2647529046542020359&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9215680&hvtargid=pla-2371569635208&psc=1&mcid=41c4ad98bd813e8fb754702b6398be14&tag=googleshopp00-20&linkCode=df0&hvadid=709965221219&hvpos=&hvnetw=g&hvrand=2647529046542020359&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9215680&hvtargid=pla-2371569635208&psc=1&language=pt_BR&gad_source=1)
+
+**
+↳
+
+**
+↳
+
+**
+↳
+
 ## Orientações Finais
 &nbsp;&nbsp;&nbsp;&nbsp;Após a conclusão dos cursos, não se esqueça de realizar o exercício, especialmente se este for seu primeiro contato com Segurança da Informação.   
 &nbsp;&nbsp;&nbsp;&nbsp;Sempre compartilhe seus novos certificados no LinkedIn para aumentar sua visibilidade e destacar seu desenvolvimento profissional.    
