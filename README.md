@@ -270,6 +270,68 @@ ___
 - [**WeChall**](https://www.wechall.net/) - Agrega desafios de várias plataformas para ranking global.  
 
 ** Termine uma das trilhas e marque a Hive.Connect no linkedin para ganhar acesso ao forúm exclusivo de Segurança da Informação e fazer CTFs em grupo, Análise de Malware, entre outros estudos. **
+---
+## Canais no YouTube sobre Segurança da Informação
+
+- [HackerSploit](https://www.youtube.com/c/HackerSploit)  
+  Canal focado em tutoriais sobre hacking ético, testes de penetração, análise de vulnerabilidades e outras áreas de segurança da informação.
+
+- [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)  
+  Canal com conteúdo sobre hacking ético, pentesting e segurança em redes, com muitos tutoriais e dicas práticas.
+
+- [LiveOverflow](https://www.youtube.com/c/LiveOverflow)  
+  Canal que cobre temas como hacking, CTFs (Capture The Flag), e técnicas de segurança em sistemas e redes.
+
+- [NetworkChuck](https://www.youtube.com/c/NetworkChuck)  
+  Canal com uma abordagem acessível sobre redes, segurança cibernética, hacking ético e outras áreas da TI.
+
+- [Computerphile](https://www.youtube.com/c/Computerphile)  
+  Canal com explicações detalhadas sobre conceitos de segurança, criptografia, hacking e ciências computacionais.
+
+- [David Bombal](https://www.youtube.com/c/DavidBombal)  
+  Canal com foco em redes, segurança de TI, hacking ético e exames de certificação como CCNA e CompTIA.
+
+- [IppSec](https://www.youtube.com/c/IppSec)  
+  Canal focado em resolver CTFs e hacks em ambientes de segurança, com explicações detalhadas sobre a execução dos ataques.
+
+- [SecPro](https://www.youtube.com/c/SecPro)  
+  Canal voltado para tutoriais de hacking ético, análise de segurança e vulnerabilidades em sistemas e redes.
+
+- [Null Byte](https://www.youtube.com/c/NullByteWHT)  
+  Canal com conteúdo voltado para hacking ético, tutoriais de pentesting, segurança em redes e ferramentas usadas em segurança cibernética.
+
+- [Hak5](https://www.youtube.com/c/Hak5Darren)  
+  Canal que cobre tópicos de segurança de redes, hacking, pentesting e hacking em hardware, além de notícias de segurança.
+
+- [Professor Messer](https://www.youtube.com/c/ProfessorMesser)  
+  Canal educativo focado em certificações de TI e segurança da informação, como CompTIA A+, Network+ e Security+.
+
+- [John Hammond](https://www.youtube.com/c/JohnHammond010)  
+  Canal que aborda segurança ofensiva, pentesting e desafios de segurança como CTFs, com explicações detalhadas sobre técnicas de ataque.
+
+- [PentesterLab](https://www.youtube.com/c/PentesterLab)  
+  Canal voltado para treinamento prático de segurança ofensiva, com tutoriais sobre como encontrar e explorar vulnerabilidades.
+
+- [Black Hills Information Security](https://www.youtube.com/c/BlackHillsInformationSecurity)  
+  Canal com webinars e apresentações sobre segurança de TI, pentesting e testes de invasão, com análises profundas e discussão sobre técnicas avançadas.
+
+- [SANS Institute](https://www.youtube.com/c/SANSInstitute)  
+  Canal que fornece conteúdo educacional de alta qualidade sobre segurança cibernética, incluindo webinars e tutoriais práticos.
+
+- [Cyber Security Awareness](https://www.youtube.com/c/CyberSecurityAwareness)  
+  Canal com foco em conscientização de segurança cibernética, com dicas práticas sobre como proteger dados e dispositivos contra ameaças.
+
+- [TechSavy Solutions](https://www.youtube.com/c/TechSavySolutions)  
+  Canal com conteúdo educacional sobre segurança de redes, hacking ético e análise de vulnerabilidades.
+
+- [The IT Support Center](https://www.youtube.com/c/TheITSupportCenter)  
+  Canal que fornece tutoriais sobre segurança da informação, técnicas de hacking e como proteger redes e sistemas de TI.
+
+- [CyberSecTuts](https://www.youtube.com/c/CyberSecTuts)  
+  Canal com foco em hacking ético, pentesting e ferramentas de segurança cibernética, abordando temas como vulnerabilidades e ataques.
+
+- [Techno Tim](https://www.youtube.com/c/TechnoTim)  
+  Canal que cobre tópicos sobre segurança em redes, monitoramento de segurança e boas práticas para proteger sistemas de TI.
 
 ---
 ## Principais Ferramentas
@@ -289,6 +351,20 @@ ___
 | **Auditoria de Segurança** | **Bastille Linux** | Open Source | Ferramenta que oferece um bloqueio personalizado para máquinas Linux, baseado em respostas sobre segurança. | [Bastille Linux](https://bastille-linux.sourceforge.io/) |
 | **Análise de Malware** | **Cuckoo Sandbox** | Open Source | Sistema de análise automatizada de malware que permite a observação do comportamento de arquivos suspeitos. | [Cuckoo Sandbox](https://cuckoosandbox.org/) |
 | **Forense Digital** | **Autopsy** | Open Source | Interface gráfica para o The Sleuth Kit, utilizada para investigações forenses de discos rígidos e smartphones. | [Autopsy](https://www.sleuthkit.org/autopsy/) |
-
+| **Kali Linux**                    | **Aircrack-ng**           | Open Source     | Conjunto de ferramentas para testar a segurança de redes sem fio, incluindo crack de chaves WEP e WPA. | [Aircrack-ng](https://www.aircrack-ng.org/) |
+| **Kali Linux**                    | **Burp Suite**            | Paga            | Plataforma para realizar testes de penetração em aplicativos web, com foco em interceptação de requisições HTTP/HTTPS. | [Burp Suite](https://portswigger.net/burp) |
+| **Kali Linux**                    | **Metasploit Framework**  | Open Source/Paga | Ferramenta de desenvolvimento e execução de exploits contra máquinas remotas. | [Metasploit](https://www.metasploit.com/) |
+| **Kali Linux**                    | **John the Ripper**       | Open Source     | Ferramenta para quebra de senhas, com suporte a diversos algoritmos de criptografia. | [John the Ripper](https://www.openwall.com/john/) |
+| **Kali Linux**                    | **Hydra**                 | Open Source     | Ferramenta para ataques de força bruta em serviços de rede, como SSH, FTP, HTTP, entre outros. | [Hydra](https://github.com/vanhauser-thc/thc-hydra) |
+| **Kali Linux**                    | **Wireshark**             | Open Source     | Ferramenta de análise de protocolos de rede, permitindo capturar e examinar pacotes de dados em tempo real. | [Wireshark](https://www.wireshark.org/) |
+| **Forense Digital**               | **Sleuth Kit**            | Open Source     | Conjunto de ferramentas para investigação forense digital de sistemas de arquivos, adequado para análise de discos e dispositivos. | [Sleuth Kit](https://www.sleuthkit.org/) |
+| **Análise de Malware**            | **Cuckoo Sandbox**        | Open Source     | Ferramenta de análise automatizada de malware, permitindo a execução segura e o monitoramento de arquivos suspeitos. | [Cuckoo Sandbox](https://cuckoosandbox.org/) |
+| **Monitoramento de Rede**         | **Zabbix**                | Open Source     | Ferramenta de monitoramento de redes, servidores e aplicações, proporcionando análise detalhada de desempenho e segurança. | [Zabbix](https://www.zabbix.com/) |
+| **Teste de Penetração**           | **OWASP ZAP**             | Open Source     | Ferramenta de teste de penetração focada em encontrar vulnerabilidades em aplicativos web. | [OWASP ZAP](https://www.zaproxy.org/) |
+| **Segurança de Email**            | **Gpg4win**               | Open Source     | Ferramenta para criptografia e assinatura de emails, usando o padrão OpenPGP. | [Gpg4win](https://gpg4win.org/) |
+| **Gerenciamento de Vulnerabilidades** | **OpenSCAP**             | Open Source     | Conjunto de ferramentas para avaliação de segurança de sistemas, com foco em conformidade e análise de vulnerabilidades. | [OpenSCAP](https://www.open-scap.org/) |
+| **Análise de Vulnerabilidades**   | **Nikto**                 | Open Source     | Scanner de vulnerabilidades em servidores web, verificando configurações inseguras e possíveis falhas. | [Nikto](https://cirt.net/Nikto2) |
+| **Segurança de Banco de Dados**   | **sqlmap**                | Open Source     | Ferramenta para automatizar a detecção e exploração de falhas de injeção SQL em aplicativos web. | [sqlmap](http://sqlmap.org/) |
+| **Teste de Penetração**           | **Beef Framework**        | Open Source     | Framework para penetração em aplicativos web, focado em exploração de falhas em browsers. | [Beef Framework](https://github.com/beefproject/beef) |
 ---
 **Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
