@@ -8,9 +8,8 @@ que você realize esse desafio, pois ele será a base para os próximos passos. 
 a baixo, qualquer dúvida perginte em nosso servidor no Discord. Dedique-se e aproveite ao máximo essa oportunidade de 
 aprimoramento!
 
-```
-mermaid
-    graph TD;
+```mermaid
+  graph LR;
       A[Fundamentos de Segurança da informação]-->B[Introdução à Segurança Cibernética];
       A-->C[Conceitos de base];
       B-->D[Cenário de Ameaças];
