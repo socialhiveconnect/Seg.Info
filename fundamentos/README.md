@@ -5,9 +5,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Agora que você possui uma base sólida de conhecimento, é hora de avançar para a próxima etapa, focando nas ferramentas, configurações e implementações práticas essenciais para a segurança da informação. Neste módulo, você aprenderá a aplicar conceitos como EDR, SIEM, DLP, segurança de endpoints, RBAC, WAF, firewalls e análise de logs, que são amplamente utilizados no mercado.
 &nbsp;&nbsp;&nbsp;&nbsp;Após concluir os cursos, você terá acesso a PDFs com exercícios para reforçar seu aprendizado, agora esses novos desafios já são CTFs. Esses desafios são fundamentais para consolidar as habilidades adquiridas e preparar você para situações reais. Siga a sequência de cursos recomendada abaixo e, em caso de dúvidas, participe de nosso servidor no Discord. Dedique-se ao máximo e aproveite essa oportunidade para aprimorar suas habilidades na área de segurança cibernética.
 
-```mermaid
+```
+mermaid
     graph TD;
-        graph TD;
       A[Fundamentos de Segurança da Informação]-->B[EDR (Endpoint Detection and Response)];
       A-->C[SIEM (Security Information and Event Management)];
       B-->D[DLP (Data Loss Prevention)];
