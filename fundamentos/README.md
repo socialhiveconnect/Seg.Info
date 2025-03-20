@@ -8,6 +8,7 @@ que você realize esse desafio, pois ele será a base para os próximos passos. 
 a baixo, qualquer dúvida perginte em nosso servidor no Discord. Dedique-se e aproveite ao máximo essa oportunidade de 
 aprimoramento!
 
+```
 mermaid
     graph TD;
       A[Fundamentos de Segurança da informação]-->B[Introdução à Segurança Cibernética];
@@ -20,7 +21,7 @@ mermaid
       F-->I[Cybersecurity Essentials];
       I-->J[Analista Júnior de Cibersegurança];
       J-->K[Ethical Hacking];
-
+```
 
 ## Fundamentos:
 
