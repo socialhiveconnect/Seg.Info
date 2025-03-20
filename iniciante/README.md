@@ -7,12 +7,12 @@
 
 ```mermaid
   graph LR;
-    A[Fundamentos de Segurança da Informação] --> B[EDR (Endpoint Detection and Response)];
-    A --> C[SIEM (Security Information and Event Management)];
-    B --> D[DLP (Data Loss Prevention)];
+    A[Fundamentos de Segurança da Informação] --> B[EDR- Endpoint Detection and Response];
+    A --> C[SIEM - Security Information and Event Management];
+    B --> D[DLP - Data Loss Prevention];
     B --> E[Segurança de Endpoint];
-    C --> F[RBAC (Role-Based Access Control)];
-    C --> G[WAF (Web Application Firewall)];
+    C --> F[RBAC - Role-Based Access Control];
+    C --> G[WAF - Web Application Firewall];
     G --> H[Firewall];
     F --> I[Análise de Logs];
     I --> J[Hacking Ético];
