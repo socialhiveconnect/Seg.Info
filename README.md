@@ -102,11 +102,11 @@ Arquitetura de Segurança | Proteção de Infraestruturas Críticas | Modelagem 
 | **Notícias** | Caverna Tech | Em site com notícias focadas em tecnologia e segurança cibernética em Português | [Caveira Tech](https://caveiratech.com/) |
 | **Notícias** | The Hacker News | Portal de notícias com atualizações sobre vulnerabilidades e incidentes | [The Hacker News](https://thehackernews.com/) |
 | **Notícias** | TBleeping Computer | Oferece notícias diárias sobre cibersegurança, hacks e vulnerabilidades | [Bleeping Computer](https://www.bleepingcomputer.com/) |
-| **Ferramenta** | VirusTotal | Analisa arquivos e URLs em busca de vírus, malware e outras ameaças | [Virus Total](https://www.virustotal.com/gui/home/upload) |
-| **Ferramenta** | CyberChef  | Análise de dados e manipulação de texto, ideal para profissionais de segurança | [CyberChef](https://toolbox.itsec.tamu.edu/) |
-| **Ferramenta** | Shodan | Um motor de busca para dispositivos IoT que ajuda a identificar vulnerabilidades | [Shodan](https://www.shodan.io/) |
-| **Ferramenta** | Censys | Motor de busca de segurança para monitoramento de redes e serviços expostos na internet| [Censys](https://search.censys.io/) |
-| **Ferramenta** | Have I Been Pwned | Verifique se suas credenciais foram expostas em brechas de segurança conhecidas | [Have I Been Pwned](https://haveibeenpwned.com/) |
+| **Ferramenta Web** | VirusTotal | Analisa arquivos e URLs em busca de vírus, malware e outras ameaças | [Virus Total](https://www.virustotal.com/gui/home/upload) |
+| **Ferramenta Web** | CyberChef  | Análise de dados e manipulação de texto, ideal para profissionais de segurança | [CyberChef](https://toolbox.itsec.tamu.edu/) |
+| **Ferramenta Web** | Shodan | Um motor de busca para dispositivos IoT que ajuda a identificar vulnerabilidades | [Shodan](https://www.shodan.io/) |
+| **Ferramenta Web** | Censys | Motor de busca de segurança para monitoramento de redes e serviços expostos na internet| [Censys](https://search.censys.io/) |
+| **Ferramenta Web** | Have I Been Pwned | Verifique se suas credenciais foram expostas em brechas de segurança conhecidas | [Have I Been Pwned](https://haveibeenpwned.com/) |
 | **CVE** | CVE Details | Plataforma para pesquisa detalhada sobre CVEs | [CVE Details](https://www.cvedetails.com/) |
 | **Vulnerabilidades** | Exploit Database |  Repositório de exploits conhecidos, atualizado com detalhes sobre CVEs e ataques | [Exploit DataBase](https://www.exploit-db.com/) |
 | **Recursos de Pentest** | PentestTools | Para agrupar ferramentas, novidades e dicas para pentesters | [PentestTools](https://pentesttools.net/) |
