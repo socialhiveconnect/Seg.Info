@@ -138,17 +138,17 @@ ___
 <h1 align="center">Iniciante</h1>
 
 ```mermaid
-    graph LR;
-      A[Iniciante em Segurança da informação]-->B[Introdução à Segurança Cibernética];
-      A-->C[Conceitos de base];
-      B-->D[Cenário de Ameaças];
-      B-->E[Defesa Contra Ameaças Online];
-      C-->F[Segurança em Nuvem];
-      C-->G[Linux para Segurança];
-      G-->H[Wireshark e Análise de Tráfego];
-      F-->I[Cybersecurity Essentials];
-      I-->J[Analista Júnior de Cibersegurança];
-      J-->K[Ethical Hacking];
+  graph LR;
+    A[Fundamentos de Segurança da Informação] --> B[EDR- Endpoint Detection and Response];
+    A --> C[SIEM - Security Information and Event Management];
+    B --> D[DLP - Data Loss Prevention];
+    B --> E[Segurança de Endpoint];
+    C --> F[RBAC - Role-Based Access Control];
+    C --> G[WAF - Web Application Firewall];
+    G --> H[Firewall];
+    F --> I[Análise de Logs];
+    I --> J[Hacking Ético];
+    J --> K[Segurança Cibernética];
 
       click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/iniciante "Veja o repositório de Iniciantes"
 ```
