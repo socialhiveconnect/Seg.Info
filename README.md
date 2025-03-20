@@ -337,7 +337,7 @@ ___
 
 ---
 
-## Principais Ferramentas
+## Principais Ferramentas Instaláveis
 
 | Categoria | Nome | Open Source/Paga | Descrição | Link |
 | :---: | :---: | :---: | :---: | :---: |
