@@ -1,152 +1,97 @@
-<h1 align="center">Iniciante Segurança da Informação
+<h1 align="center">Fundamentos de Segurança da Informação
 </div>
 
-## Bem-vindo(a) a continuação dessa jornada em Segurança da Informação!
-&nbsp;&nbsp;&nbsp;&nbsp;Agora que você possui uma base sólida de conhecimento, é hora de avançar para a próxima etapa, focando nas ferramentas, configurações e implementações práticas essenciais para a segurança da informação. Neste módulo, você aprenderá a aplicar conceitos como EDR, SIEM, DLP, segurança de endpoints, RBAC, WAF, firewalls e análise de logs, que são amplamente utilizados no mercado.
-&nbsp;&nbsp;&nbsp;&nbsp;Após concluir os cursos, você terá acesso a PDFs com exercícios para reforçar seu aprendizado, agora esses novos desafios já são CTFs. Esses desafios são fundamentais para consolidar as habilidades adquiridas e preparar você para situações reais. Siga a sequência de cursos recomendada abaixo e, em caso de dúvidas, participe de nosso servidor no Discord. Dedique-se ao máximo e aproveite essa oportunidade para aprimorar suas habilidades na área de segurança cibernética.
+## Bem-vindo(a) ao primeiro passo dessa jornada!
+&nbsp;&nbsp;&nbsp;&nbsp;Neste espaço, você terá acesso a conteúdos e conceitos fundamentais para iniciar sua jornada de estudos em segurança
+ da informação. Após a conclusão dos cursos, acesse o PDF com o exercício para reforçar seu aprendizado. É altamente recomendável 
+que você realize esse desafio, pois ele será a base para os próximos passos. Tente seguir a trilha de cursos conforme a sequência 
+a baixo, qualquer dúvida perginte em nosso servidor no Discord. Dedique-se e aproveite ao máximo essa oportunidade de 
+aprimoramento!
 
-```mermaid
+mermaid
     graph TD;
-    A[Fundamentos de Segurança da Informação] --> B[EDR (Endpoint Detection and Response)];
-    A --> C[SIEM (Security Information and Event Management)];
-    B --> D[DLP (Data Loss Prevention)];
-    B --> E[Segurança de Endpoint];
-    C --> F[RBAC (Role-Based Access Control)];
-    C --> G[WAF (Web Application Firewall)];
-    G --> H[Firewall];
-    F --> I[Análise de Logs];
-    I --> J[Hacking Ético];
-    J --> K[Segurança Cibernética];
-    K --> L[Kali Linux];
-```
+      A[Fundamentos de Segurança da informação]-->B[Introdução à Segurança Cibernética];
+      A-->C[Conceitos de base];
+      B-->D[Cenário de Ameaças];
+      B-->E[Defesa Contra Ameaças Online];
+      C-->F[Segurança em Nuvem];
+      C-->G[Linux para Segurança];
+      G-->H[Wireshark e Análise de Tráfego];
+      F-->I[Cybersecurity Essentials];
+      I-->J[Analista Júnior de Cibersegurança];
+      J-->K[Ethical Hacking];
+
 
 ## Fundamentos:
 
-1. **EDR (Endpoint Detection and Response)**  
-   **EDR Solutions: An Introduction to Endpoint Detection and Response | Pluralsight**  
-   [EDR Solutions: An Introduction to Endpoint Detection and Response](https://www.pluralsight.com/courses/edr-solutions-introduction-endpoint-detection-response)
-   
-   **Ou**  
-   **Advanced EDR Threat Hunting and Response | Udemy**  
-   [Advanced EDR Threat Hunting and Response](https://www.udemy.com/course/advanced-edr-threat-hunting-and-response/)
+1. **Introduction to Cybersecurity | Cisco**  
+   [Introduction to Cybersecurity by Cisco: Free Online Course](https://www.netacad.com/courses/intro-cybersecurity)
 
-2. **SIEM (Security Information and Event Management)**  
-   **Learn SIEM with Splunk | Udemy**  
-   [Learn SIEM with Splunk](https://www.udemy.com/course/learn-siem-with-splunk/)
-   
-   **Ou**  
-   **OSSIM – Open Source SIEM Fundamentals | Udemy**  
-   [OSSIM (Open Source SIEM)](https://www.udemy.com/course/ossim-open-source-siem-fundamentals/)
+2. **Segurança cibernética | IBM**  
+   [Cursos gratuitos de segurança cibernética para estudantes | IBM SkillsBuild](https://www.ibm.com/skills/build)
 
-   **Ou**  
-   **Wazuh for SIEM and Security Monitoring | Udemy**  
-   [Wazuh for SIEM and Security Monitoring](https://www.udemy.com/course/wazuh-for-siem-and-security-monitoring/)
+3. **Como se defender contra ameaças Online | Academia Forense Digital**  
+   [Fundamentos de Cibersegurança: Como se Defender Contra Ameaças Online](https://www.academiaforensedigital.com.br)
 
-3. **DLP (Data Loss Prevention)**  
-   **Data Loss Prevention: Implementation and Management | Pluralsight**  
-   [Pluralsight DLP](https://www.pluralsight.com/courses/data-loss-prevention-implementation-management)
-   
-   **Ou**  
-   **Symantec DLP 14.5: Configuration and Troubleshooting | Udemy**  
-   [Udemy DLP](https://www.udemy.com/course/symantec-dlp-14-5-configuration-and-troubleshooting/)
+4. **Segurança em tecnologia da informação | Fundação Bradesco**  
+   [Segurança em Tecnologia da Informação - Fundação Bradesco - Escola Virtual](https://www.ev.org.br)
 
-4. **Segurança de Endpoint**  
-   **Endpoint Security Fundamentals | Cybrary**  
-   [Cybrary Endpoint Security](https://www.cybrary.it/course/endpoint-security-fundamentals/)
+5. **Fundamentos de segurança cibernética | Cisco**  
+   [Cybersecurity Essentials Course with Real-World Scenarios](https://www.netacad.com/courses/cybersecurity-essentials)
 
-   **Ou**  
-   **Endpoint Security Management | Udemy**  
-   [Udemy Endpoint Security](https://www.udemy.com/course/endpoint-security-management/)
+6. **Cybersecurity | FIAP**  
+   [FIAP EAD - Login](https://on.fiap.com.br)
 
-5. **RBAC (Role-Based Access Control)**  
-   **Identity and Access Management (IAM) with RBAC | Pluralsight**  
-   [Pluralsight RBAC](https://www.pluralsight.com/courses/identity-access-management-iam-rbac)
+7. **Introdução ao cenário de ameaças (EN)**  
+   [Introduction to the Threat Landscape](https://www.cybrary.it/course/introduction-to-the-threat-landscape/)
 
-   **Ou**  
-   **Implementing Role-Based Access Control | Udemy**  
-   [Udemy RBAC](https://www.udemy.com/course/implementing-role-based-access-control/)
+8. **Introdução à segurança cibernética (EN)**  
+   [Getting Started in Cybersecurity](https://www.cybrary.it/course/getting-started-in-cybersecurity/)
 
-6. **WAF (Web Application Firewall)**  
-   **Web Application Firewall Fundamentals | Udemy**  
-   [Udemy WAF](https://www.udemy.com/course/web-application-firewall-fundamentals/)
+9. **Introdução técnica em cibersegurança (EN)**  
+   [Technical Introduction to Cybersecurity](https://www.cybrary.it/course/technical-introduction-to-cybersecurity/)
 
-   **Ou**  
-   **AWS Web Application Firewall | Pluralsight**  
-   [AWS WAF Pluralsight](https://www.pluralsight.com/courses/aws-web-application-firewall)
+10. **Junior Cybersecurity Analyst | Cisco**  
+     [Junior Cybersecurity Analyst - Skills for All](https://www.netacad.com/pt/career-paths/cybersecurity?courseLang=pt-BR)
 
-7. **Firewall**  
-   **Firewall Fundamentals | Pluralsight**  
-   [Pluralsight Firewall Fundamentals](https://www.pluralsight.com/courses/firewall-fundamentals)
+11. **Ethical Hacker | Cisco (EN)**  
+    [Ethical Hacker - Skills for All](https://www.netacad.com/pt/courses/ethical-hacker?courseLang=en-US)
 
-   **Ou**  
-   **Cisco Firewalls (FMC) - Advanced Configuration and Troubleshooting | Udemy**  
-   [Udemy Cisco Firewalls](https://www.udemy.com/course/cisco-firewalls-fmc-advanced-configuration-and-troubleshooting/)
+12. **Linux Fundamentos | FIAP**  
+    [FIAP EAD - Login](https://on.fiap.com.br)
 
-8. **Análise de Logs**  
-   **Log Management and Analysis | Pluralsight**  
-   [Pluralsight Log Analysis](https://www.pluralsight.com/courses/log-management-analysis)
+13. **Fundamentos da segurança em nuvem | Palo Alto**  
+    [Cloud Security Fundamentals : Beacon](https://beacon.paloaltonetworks.com/student/collection/623418)
 
-   **Ou**  
-   **Log Analysis with ELK Stack (Elasticsearch, Logstash, Kibana) | Udemy**  
-   [Udemy ELK](https://www.udemy.com/course/log-analysis-with-elk-stack-elasticsearch-logstash-kibana/)
+14. **Wireshark Do Iniciante ao Avançado | Youtube (EN) - Sem certificado**  
+    [Wireshark Full Course 🦈| Wireshark Tutorial Beginner to Advance 🔆 Wireshark 2023](https://www.youtube.com/watch?v=ZxF6dXfQaNM)  
+    **Ou**  
+    **Wireshark analisando tráfego | Udemy R$39,90 - Com certificado**  
+    [Wireshark Analisando Tráfego | Udemy](https://www.udemy.com/course/wireshark-analisando-trafego/)
 
 
 ## O que você deve saber ao terminar essa trilha:
+- **Fundamentos de Cibersegurança:** Compreensão de ameaças cibernéticas, princípios de segurança (CIA), e proteção de dados pessoais.  
+- **Análise e Defesa Contra Ameaças:** Identificação e defesa contra ataques, resposta a incidentes e minimização de danos.  
+- **Ferramentas e Técnicas de Segurança:** Uso de ferramentas como Wireshark e Nmap para análise de tráfego e práticas de segurança em nuvem.  
+- **Segurança em Redes:** Monitoramento de redes, implementação de protocolos de segurança e gestão de identidades e acessos.  
+- **Hacking Ético Básico:** Realização de testes de intrusão e uso de ferramentas como Metasploit e Nmap.  
+- **Segurança de Sistemas e Aplicações:** Desenvolvimento seguro, criptografia e proteção de dados.  
+- **Segurança Cibernética:** Criação de políticas de segurança, conformidade com regulamentações e planejamento de continuidade de negócios.  
+- **Kali Linux:** Subir uma máquina virtual no virtual box, com configurações básicas.  
 
-- **Fundamentos de EDR (Endpoint Detection and Response):**  
-   Compreensão dos conceitos de EDR, como detectar e responder a incidentes relacionados a endpoints, além de técnicas de hunting avançado e mitigação de riscos.
-- **SIEM (Security Information and Event Management):**  
-   Capacidade de implementar e gerenciar sistemas SIEM, como o Splunk, OSSIM e Wazuh, para monitoramento e correlação de eventos de segurança.
-- **DLP (Data Loss Prevention):**  
-   Conhecimento sobre como implementar soluções de prevenção de perda de dados (DLP), incluindo o uso do Symantec DLP para proteger dados sensíveis e gerenciar riscos de segurança relacionados à perda de dados.
-- **Segurança de Endpoint:**  
-   Compreensão dos conceitos de segurança de endpoints, como proteger dispositivos contra ameaças e implementar políticas de segurança para gerenciar e proteger os endpoints corporativos.
-- **RBAC (Role-Based Access Control):**  
-   Capacidade de implementar e gerenciar o controle de acesso baseado em funções (RBAC), garantindo que os acessos a sistemas e dados sejam feitos de forma segura e eficiente, respeitando as melhores práticas de IAM (Identity and Access Management).
-- **WAF (Web Application Firewall):**  
-   Conhecimento sobre como implementar e gerenciar firewalls de aplicação web (WAF), incluindo o uso de soluções como o AWS WAF para proteger aplicações na nuvem contra ataques e vulnerabilidades.
-- **Firewall:**  
-   Habilidade para configurar e gerenciar firewalls, desde os conceitos básicos até configurações avançadas, como em firewalls Cisco (FMC), garantindo a segurança da rede contra acessos não autorizados.
-- **Análise de Logs:**  
-   Habilidade para gerenciar e analisar logs de segurança, utilizando ferramentas como o ELK Stack (Elasticsearch, Logstash, Kibana) e outras plataformas de análise de logs para identificar ameaças e vulnerabilidades.
-- **Práticas de Hacking Ético:**  
-   Capacidade de realizar testes de intrusão e avaliações de segurança, utilizando ferramentas como Metasploit e Nmap para identificar falhas de segurança em sistemas e redes.
+## Livros  
+**Linux Guia Prático** - Daniel J. Barrett  
+↳ [Link para compra na Amazon](https://www.amazon.com.br/Linux-Guia-Pr%C3%A1tico-Comandos-Essenciais/dp/8575229117/ref=asc_df_8575229117/?tag=googleshopp00-20&linkCode=df0&hvadid=709965221219&hvpos=&hvnetw=g&hvrand=2647529046542020359&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9215680&hvtargid=pla-2371569635208&psc=1&mcid=41c4ad98bd813e8fb754702b6398be14&tag=googleshopp00-20&linkCode=df0&hvadid=709965221219&hvpos=&hvnetw=g&hvrand=2647529046542020359&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9215680&hvtargid=pla-2371569635208&psc=1&language=pt_BR&gad_source=1)
 
-## Livros
+**
+↳
 
-**EDR (Endpoint Detection and Response) - The Threat Hunter's Handbook**  
-↳ [Link para compra na Amazon](https://www.amazon.com.br/Threat-Hunters-Handbook-Detection-Response/dp/1119623673)
+**
+↳
 
-**SIEM (Security Information and Event Management) - The Log Analysis Handbook**  
-↳ [Link para compra na Amazon](https://www.amazon.com.br/Log-Analysis-Handbook-Security-Management/dp/1484241782)
-
-**DLP (Data Loss Prevention) - Data Loss Prevention: A Comprehensive Guide to Preventing Data Leaks and Loss**  
-↳ [Link para compra na Amazon](https://www.amazon.com.br/Data-Loss-Prevention-Comprehensive-Preventing/dp/1119643840)
-
-**Segurança de Endpoint - Endpoint Security: A Complete Guide**  
-↳ [Link para compra na Amazon](https://www.amazon.com.br/Endpoint-Security-Complete-Karl-Nicks/dp/1799982134)
-
-**RBAC (Role-Based Access Control) - Identity and Access Management: Business Performance Through Connected Intelligence**  
-↳ [Link para compra na Amazon](https://www.amazon.com.br/Identity-Access-Management-Performance-Intelligence/dp/0124199755)
-
-**WAF (Web Application Firewall) - Web Application Security: A Beginner’s Guide**  
-↳ [Link para compra na Amazon](https://www.amazon.com.br/Web-Application-Security-Beginners-Guide/dp/0071790109)
-
-**Firewall - The Firewall: A Guide to Network Security**  
-↳ [Link para compra na Amazon](https://www.amazon.com.br/Firewall-Guide-Network-Security-Protection/dp/1119210763)
-
-**Análise de Logs - Logging and Log Management: The Authoritative Guide to Understanding the Concepts Surrounding Logging and Log Management**  
-↳ [Link para compra na Amazon](https://www.amazon.com.br/Logging-Log-Management-Authoritative-Understanding/dp/0134096852)
-
-**Hacking Ético - The Web Application Hacker's Handbook**  
-↳ [Link para compra na Amazon](https://www.amazon.com.br/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
-
-**Segurança Cibernética - Cybersecurity and Cyberwar: What Everyone Needs to Know**  
-↳ [Link para compra na Amazon](https://www.amazon.com.br/Cybersecurity-Cyberwar-Everyone-Needs-Know/dp/0199918098)
-
-**Kali Linux - Kali Linux Revealed: Mastering the Penetration Testing Distribution**  
-↳ [Link para compra na Amazon](https://www.amazon.com.br/Kali-Linux-Revealed-Mastering-Penetration/dp/0996396927)
-
+**
+↳
 
 ## Orientações Finais
 &nbsp;&nbsp;&nbsp;&nbsp;Após a conclusão dos cursos, não se esqueça de realizar o exercício, especialmente se este for seu primeiro contato com Segurança da Informação.   
