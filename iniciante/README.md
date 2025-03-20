@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Após concluir os cursos, você terá acesso a PDFs com exercícios para reforçar seu aprendizado, agora esses novos desafios já são CTFs. Esses desafios são fundamentais para consolidar as habilidades adquiridas e preparar você para situações reais. Siga a sequência de cursos recomendada abaixo e, em caso de dúvidas, participe de nosso servidor no Discord. Dedique-se ao máximo e aproveite essa oportunidade para aprimorar suas habilidades na área de segurança cibernética.
 
 ```mermaid
-    graph TD;
+  graph LR;
     A[Fundamentos de Segurança da Informação] --> B[EDR (Endpoint Detection and Response)];
     A --> C[SIEM (Security Information and Event Management)];
     B --> D[DLP (Data Loss Prevention)];
