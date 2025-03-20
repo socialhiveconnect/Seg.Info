@@ -84,14 +84,24 @@ aprimoramento!
 **Linux Guia Prático** - Daniel J. Barrett  
 ↳ [Link para compra na Amazon](https://www.amazon.com.br/Linux-Guia-Pr%C3%A1tico-Comandos-Essenciais/dp/8575229117/ref=asc_df_8575229117/?tag=googleshopp00-20&linkCode=df0&hvadid=709965221219&hvpos=&hvnetw=g&hvrand=2647529046542020359&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9215680&hvtargid=pla-2371569635208&psc=1&mcid=41c4ad98bd813e8fb754702b6398be14&tag=googleshopp00-20&linkCode=df0&hvadid=709965221219&hvpos=&hvnetw=g&hvrand=2647529046542020359&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9215680&hvtargid=pla-2371569635208&psc=1&language=pt_BR&gad_source=1)
 
-**
-↳
+**Testes de Invasão: uma Introdução Prática ao Hacking** - Georgia Weidman  
+↳ [Link para compra na Amazon](https://www.amazon.com.br/Testes-Invas%C3%A3o-Georgia-Weidman/dp/8575224077)
 
-**
-↳
+**Testes de Invasão: uma Introdução Prática ao Hacking** - Georgia Weidman  
+↳ [Link para compra na Amazon](https://www.amazon.com.br/Testes-Invas%C3%A3o-Georgia-Weidman/dp/8575224077)
 
-**
-↳
+**Segurança da Informação: Princípios e Práticas** - William Stallings  
+↳ [Link para compra na Amazon](https://www.amazon.com.br/Seguran%C3%A7a-Inform%C3%A7%C3%A3o-Princ%C3%ADpios-Pr%C3%A1ticas-William/dp/8535249073)
+
+**Hacking: The Art of Exploitation** - Jon Erickson  
+↳ [Link para compra na Amazon](https://www.amazon.com.br/Hacking-Art-Exploitation-2nd/dp/1593271441)
+
+**Cybersecurity Essentials** - Charles Brooks  
+↳ [Link para compra na Amazon](https://www.amazon.com.br/Cybersecurity-Essentials-Charles-Brooks/dp/1284068225)
+
+**Aprendendo Kali Linux** - Novatech  
+↳ [Link para compra na Amazon](https://www.amazon.com.br/Aprendendo-Kali-Linux-Edic%C3%A3o-Atualizada/dp/8550805371)
+
 
 ## Orientações Finais
 &nbsp;&nbsp;&nbsp;&nbsp;Após a conclusão dos cursos, não se esqueça de realizar o exercício, especialmente se este for seu primeiro contato com Segurança da Informação.   
