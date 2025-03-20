@@ -69,6 +69,8 @@ aprimoramento!
     **Wireshark analisando tráfego | Udemy R$39,90 - Com certificado**  
     [Wireshark Analisando Tráfego | Udemy](https://www.udemy.com/course/wireshark-analisando-trafego/)
 
+15. **Hacktivities | TryHackMe**  
+    [Link para Hacktivities no TryHackMe](https://tryhackme.com/hacktivities)
 
 ## O que você deve saber ao terminar essa trilha:
 - **Fundamentos de Cibersegurança:** Compreensão de ameaças cibernéticas, princípios de segurança (CIA), e proteção de dados pessoais.  
