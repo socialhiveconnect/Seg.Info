@@ -150,7 +150,7 @@ ___
     I --> J[Hacking Ético];
     J --> K[Segurança Cibernética];
 
-      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/iniciante "Veja o repositório de Iniciantes"
+      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/iniciante" "Veja o repositório de Iniciantes"
 ```
 
 <h1 align="center">Intermediário</h1>
@@ -186,7 +186,7 @@ ___
       I-->J[Analista Júnior de Cibersegurança];
       J-->K[Ethical Hacking];
 
-      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/avançado "Veja o repositório Avançado"
+      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/avançado" "Veja o repositório Avançado"
 ```
 ---
 
