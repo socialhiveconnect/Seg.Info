@@ -172,17 +172,15 @@ ___
 <h1 align="center">Avançado</h1>
 
 ```mermaid
-    graph LR;
-      A[Avançados em Segurança da informação]-->B[Introdução à Segurança Cibernética];
-      A-->C[Conceitos de base];
-      B-->D[Cenário de Ameaças];
-      B-->E[Defesa Contra Ameaças Online];
-      C-->F[Segurança em Nuvem];
-      C-->G[Linux para Segurança];
-      G-->H[Wireshark e Análise de Tráfego];
-      F-->I[Cybersecurity Essentials];
-      I-->J[Analista Júnior de Cibersegurança];
-      J-->K[Ethical Hacking];
+  graph LR;
+    A[Fundamentos Avançados de Segurança da Informação] --> B[Forense Digital];
+    A --> C[Leis Estatais e Digitais - LGPD];
+    B --> D[Análise de Códigos - Identificando Códigos Maliciosos];
+    B --> E[Coleta de Evidências, Análises e Interpretações];
+    C --> F[RedTeam - Pentest];
+    C --> G[BlueTeam - IAM, Campanha de Conscientização];
+    F --> H[OrangeTeam - Ferramentas de Teste de Códigos];
+    G --> I[WhiteTeam - Gestão de Risco e Conformidade, Compliance];
 
       click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/avançado" "Veja o repositório Avançado"
 ```
