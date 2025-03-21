@@ -23,16 +23,17 @@
 ## Fundamentos:
 
 1. **EDR (Endpoint Detection and Response)**  
-   **EDR Solutions: An Introduction to Endpoint Detection and Response | Pluralsight**  
-   [EDR Solutions: An Introduction to Endpoint Detection and Response](https://www.pluralsight.com/courses/edr-solutions-introduction-endpoint-detection-response)
-   
-   **Ou**  
-   **Advanced EDR Threat Hunting and Response | Udemy**  
-   [Advanced EDR Threat Hunting and Response](https://www.udemy.com/course/advanced-edr-threat-hunting-and-response/)
+   **Guide to Endpoint Detection and Response (EDR)| Purple Academy**  
+   [EDR Solutions: An Introduction to Endpoint Detection and Response](https://academy.picussecurity.com/course/endpoint-detection-and-response-edr-course)
+  
 
 2. **SIEM (Security Information and Event Management)**  
    **Learn SIEM with Splunk | Udemy**  
    [Learn SIEM with Splunk](https://www.udemy.com/course/learn-siem-with-splunk/)
+ 
+   **Ou**  
+   **Elastic Security - Fundamentos de SIEM | Udemy**  
+   [Elastic Security - Fundamentos de SIEM](https://www.udemy.com/course/elastic-security-siem/?couponCode=KEEPLEARNINGBR)
    
    **Ou**  
    **OSSIM – Open Source SIEM Fundamentals | Udemy**  
@@ -59,8 +60,8 @@
    [Udemy Endpoint Security](https://www.udemy.com/course/endpoint-security-management/)
 
 5. **RBAC (Role-Based Access Control)**  
-   **Identity and Access Management (IAM) with RBAC | Pluralsight**  
-   [Pluralsight RBAC](https://www.pluralsight.com/courses/identity-access-management-iam-rbac)
+   **O que é o controle de acesso baseado em função (RBAC)? | Redhat**  
+   [RBAC (Role-Based Access Control)](https://www.redhat.com/pt-br/topics/security/what-is-role-based-access-control)
 
    **Ou**  
    **Implementing Role-Based Access Control | Udemy**  
@@ -70,26 +71,13 @@
    **Web Application Firewall Fundamentals | Udemy**  
    [Udemy WAF](https://www.udemy.com/course/web-application-firewall-fundamentals/)
 
-   **Ou**  
-   **AWS Web Application Firewall | Pluralsight**  
-   [AWS WAF Pluralsight](https://www.pluralsight.com/courses/aws-web-application-firewall)
-
 7. **Firewall**  
-   **Firewall Fundamentals | Pluralsight**  
-   [Pluralsight Firewall Fundamentals](https://www.pluralsight.com/courses/firewall-fundamentals)
-
-   **Ou**  
-   **Cisco Firewalls (FMC) - Advanced Configuration and Troubleshooting | Udemy**  
-   [Udemy Cisco Firewalls](https://www.udemy.com/course/cisco-firewalls-fmc-advanced-configuration-and-troubleshooting/)
+   **FortiGate Firewall Training | Udemy**  
+   [FortiGate Firewall Trainings](https://www.udemy.com/course/fortigate-firewall-training/?couponCode=KEEPLEARNINGBR)
 
 8. **Análise de Logs**  
-   **Log Management and Analysis | Pluralsight**  
-   [Pluralsight Log Analysis](https://www.pluralsight.com/courses/log-management-analysis)
-
-   **Ou**  
-   **Log Analysis with ELK Stack (Elasticsearch, Logstash, Kibana) | Udemy**  
-   [Udemy ELK](https://www.udemy.com/course/log-analysis-with-elk-stack-elasticsearch-logstash-kibana/)
-
+   **Log analysis - Detecting Web Attacks | Udemy**  
+   [Log analysis ](https://www.udemy.com/course/log-analysis-detecting-web-attacks/?couponCode=KEEPLEARNINGBR)
 
 ## O que você deve saber ao terminar essa trilha:
 
