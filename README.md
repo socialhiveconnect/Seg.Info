@@ -157,16 +157,15 @@ ___
 
 ```mermaid
     graph LR;
-      A[Intermediário em Segurança da informação]-->B[Introdução à Segurança Cibernética];
-      A-->C[Conceitos de base];
-      B-->D[Cenário de Ameaças];
-      B-->E[Defesa Contra Ameaças Online];
-      C-->F[Segurança em Nuvem];
-      C-->G[Linux para Segurança];
-      G-->H[Wireshark e Análise de Tráfego];
-      F-->I[Cybersecurity Essentials];
-      I-->J[Analista Júnior de Cibersegurança];
-      J-->K[Ethical Hacking];
+      graph LR;
+    A[Intermediário de Segurança da Informação] --> B[Brand Protection];
+    A --> C[IA para Segurança da Informação];
+    B --> D[Segurança de Rede];
+    B --> E[Segurança em Nuvem];
+    C --> F[Segurança de Aplicação];
+    C --> G[Automação];
+    G --> H[Projeção - VPN, IDS, IPS];
+    F --> I[Threat Intelligence];
 
       click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/intermediario" "Veja o repositório Intermediário"
 ```
