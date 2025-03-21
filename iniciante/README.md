@@ -145,7 +145,7 @@
 
 
 ## Orientações Finais
-&nbsp;&nbsp;&nbsp;&nbsp;Após a conclusão dos cursos, não se esqueça de realizar o exercício, especialmente se este for seu primeiro contato com Segurança da Informação.   
+&nbsp;&nbsp;&nbsp;&nbsp;Após concluir os cursos, não deixe de realizar os exercícios. Agora estamos avançando para desafios de CTFs (Capture The Flag). Se você tem interesse em participar de grupo para realizar CTFs ou estudos, cadastre-se em nosso site e em seguida, participe de um dos CTFs ou do laboratório do módulo anterior. Após concluir, publique sobre sua experiência e marque a @Hive.connect no LinkedIn. Assim, iremos atribuir um cargo específico para você e garantir sua entrada no fórum exclusivo de Segurança da Informação.Temos diversas atividades em grupo focadas na área de Segurança da Informação, além de oferecer mentoria 1:1 e consultoria gratuita para currículos e perfis no LinkedIn.
 &nbsp;&nbsp;&nbsp;&nbsp;Sempre compartilhe seus novos certificados no LinkedIn para aumentar sua visibilidade e destacar seu desenvolvimento profissional.    
 &nbsp;&nbsp;&nbsp;&nbsp;Esta foi uma introdução essencial ao tema, que servirá como base para os próximos módulos. No próximo, vamos explorar ferramentas que ajudarão a aplicar esses conceitos na prática e aprimorar suas habilidades na área.   
 
