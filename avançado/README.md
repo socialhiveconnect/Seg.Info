@@ -1,4 +1,4 @@
-**# Módulo Avançado: Segurança da Informação
+<h1 align="center">Avançado em Segurança da Informação</div>
 
 ## Bem-vindo(a) ao módulo avançado da jornada em Segurança da Informação!  
 &nbsp;&nbsp;&nbsp;&nbsp;Agora que você já possui uma base sólida de conhecimento em segurança da informação, é hora de avançar para o módulo mais avançado, focando em áreas complexas e práticas essenciais para enfrentar os desafios modernos de cibersegurança. Neste módulo, você aprenderá a aplicar conceitos como forense digital, leis digitais (como a LGPD), análise de códigos maliciosos, coleta e interpretação de evidências, além de entender as funções de diferentes equipes de segurança, como o RedTeam, BlueTeam, OrangeTeam e WhiteTeam.
