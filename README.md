@@ -139,7 +139,7 @@ ___
 
 ```mermaid
   graph LR;
-    A[Fundamentos de Segurança da Informação] --> B[EDR- Endpoint Detection and Response];
+    A[Iniciante Segurança da Informação] --> B[EDR- Endpoint Detection and Response];
     A --> C[SIEM - Security Information and Event Management];
     B --> D[DLP - Data Loss Prevention];
     B --> E[Segurança de Endpoint];
@@ -150,7 +150,7 @@ ___
     I --> J[Hacking Ético];
     J --> K[Segurança Cibernética];
 
-      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/iniciante" "Veja o repositório de Iniciantes"
+      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/iniciante" "Veja o repositório de Iniciante"
 ```
 
 <h1 align="center">Intermediário</h1>
@@ -173,7 +173,7 @@ ___
 
 ```mermaid
   graph LR;
-    A[Fundamentos Avançados de Segurança da Informação] --> B[Forense Digital];
+    A[Avançados em Segurança da Informação] --> B[Forense Digital];
     A --> C[Leis Estatais e Digitais - LGPD];
     B --> D[Análise de Códigos - Identificando Códigos Maliciosos];
     B --> E[Coleta de Evidências, Análises e Interpretações];
@@ -365,6 +365,11 @@ ___
 | **Análise de Vulnerabilidades**   | **Nikto**                 | Open Source     | Scanner de vulnerabilidades em servidores web, verificando configurações inseguras e possíveis falhas. | [Nikto](https://cirt.net/Nikto2) |
 | **Segurança de Banco de Dados**   | **sqlmap**                | Open Source     | Ferramenta para automatizar a detecção e exploração de falhas de injeção SQL em aplicativos web. | [sqlmap](http://sqlmap.org/) |
 | **Teste de Penetração**           | **Beef Framework**        | Open Source     | Framework para penetração em aplicativos web, focado em exploração de falhas em browsers. | [Beef Framework](https://github.com/beefproject/beef) |
+| **Guia de Testes de Segurança Web** | **OWASP Web Security Testing Guide** | Open Source | Guia detalhado de testes de segurança voltado para a segurança de aplicativos web. | [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/) |
+| **Táticas e Técnicas de Ataque** | **MITRE ATT&CK** | Open Source | Base de conhecimento sobre as táticas e técnicas de ataque cibernético utilizadas por adversários. | [MITRE ATT&CK](https://attack.mitre.org/) |
+| **Publicações de Segurança** | **NIST SP 800-115** | Open Source | Publicação do NIST sobre diretrizes para testes de segurança em redes e sistemas de informação. | [NIST SP 800-115](https://csrc.nist.gov/pubs/sp/800/115/final) |
+| **Segurança de Informações** | **ISECOM** | Open Source | Organiza pesquisa e educação em segurança da informação e privacidade. | [ISECOM](https://www.isecom.org/) |
+| **Padrão de Testes de Penetração** | **Pentest Standard** | Open Source | Padrão globalmente reconhecido para realizar testes de penetração de maneira estruturada. | [Pentest Standard](http://www.pentest-standard.org/index.php/Main_Page) |
 
 
 <h1 align="center">Muito obrigada por chegar até aqui! 🐝</h1>
