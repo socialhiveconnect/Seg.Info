@@ -1,7 +1,7 @@
 <h1 align="center">Avançado em Segurança da Informação</div>
 
 ## Bem-vindo(a) ao módulo avançado da jornada em Segurança da Informação!  
-&nbsp;&nbsp;&nbsp;&nbsp;Agora que você já possui uma base sólida de conhecimento em segurança da informação, é hora de avançar para o módulo mais avançado, focando em áreas complexas e práticas essenciais para enfrentar os desafios modernos de cibersegurança. Neste módulo, você aprenderá a aplicar conceitos como forense digital, leis digitais (como a LGPD), análise de códigos maliciosos, coleta e interpretação de evidências, além de entender as funções de diferentes equipes de segurança, como o RedTeam, BlueTeam, OrangeTeam e WhiteTeam.
+&nbsp;&nbsp;&nbsp;&nbsp;Agora que você já possui uma base sólida de conhecimento em segurança da informação, é hora de avançar para o módulo mais avançado, focando em áreas complexas e práticas essenciais para enfrentar os desafios modernos de cibersegurança. Neste módulo, você aprenderá a aplicar conceitos como forense digital, leis digitais (como a LGPD), análise de códigos maliciosos, coleta e interpretação de evidências, além de entender as funções de diferentes equipes de segurança, como o RedTeam, BlueTeam, OrangeTeam e WhiteTeam.  
 &nbsp;&nbsp;&nbsp;&nbsp;Após concluir os cursos, você terá acesso a PDFs com exercícios para reforçar seu aprendizado, agora esses novos desafios já são CTFs. Esses desafios são fundamentais para consolidar as habilidades adquiridas e preparar você para situações reais. Siga a sequência de cursos recomendada abaixo e, em caso de dúvidas, participe de nosso servidor no Discord. Dedique-se ao máximo e aproveite essa oportunidade para aprimorar suas habilidades na área de segurança cibernética.
 
 ```mermaid
@@ -126,6 +126,7 @@ Com os conhecimentos adquiridos até o final dessa trilha, você terá uma excel
 ## Orientações Finais
 &nbsp;&nbsp;&nbsp;&nbsp;Após concluir os cursos, não deixe de realizar os exercícios. Agora estamos avançando para desafios de CTFs (Capture The Flag). Se você tem interesse em participar de grupo para realizar CTFs ou estudos, cadastre-se em nosso site e em seguida, participe de um dos CTFs ou do laboratório do módulo anterior. Após concluir, publique sobre sua experiência e marque a @Hive.connect no LinkedIn. Assim, iremos atribuir um cargo específico para você e garantir sua entrada no fórum exclusivo de Segurança da Informação.Temos diversas atividades em grupo focadas na área de Segurança da Informação, além de oferecer mentoria 1:1 e consultoria gratuita para currículos e perfis no LinkedIn.
 &nbsp;&nbsp;&nbsp;&nbsp;Esta foi uma introdução essencial ao tema, que servirá como base para os próximos módulos. No próximo, vamos explorar ferramentas que ajudarão a aplicar esses conceitos na prática e aprimorar suas habilidades na área. Sempre compartilhe seus novos certificados no LinkedIn para aumentar sua visibilidade e destacar seu desenvolvimento profissional.  
+
 ---  
 
 ## Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!
