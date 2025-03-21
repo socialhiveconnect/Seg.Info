@@ -157,15 +157,14 @@ ___
 
 ```mermaid
     graph LR;
-      graph LR;
-    A[Intermediário de Segurança da Informação] --> B[Brand Protection];
-    A --> C[IA para Segurança da Informação];
-    B --> D[Segurança de Rede];
-    B --> E[Segurança em Nuvem];
-    C --> F[Segurança de Aplicação];
-    C --> G[Automação];
-    G --> H[Projeção - VPN, IDS, IPS];
-    F --> I[Threat Intelligence];
+      A[Intermediário de Segurança da Informação] --> B[Brand Protection];
+      A --> C[IA para Segurança da Informação];
+      B --> D[Segurança de Rede];
+      B --> E[Segurança em Nuvem];
+      C --> F[Segurança de Aplicação];
+      C --> G[Automação];
+      G --> H[Projeção - VPN, IDS, IPS];
+      F --> I[Threat Intelligence];
 
       click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/intermediario" "Veja o repositório Intermediário"
 ```
