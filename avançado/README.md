@@ -7,13 +7,13 @@
 ```mermaid
   graph LR;
     A[Fundamentos Avançados de Segurança da Informação] --> B[Forense Digital];
-    A --> C[Leis Estatais e Digitais (LGPD)];
+    A --> C[Leis Estatais e Digitais - LGPD];
     B --> D[Análise de Códigos - Identificando Códigos Maliciosos];
     B --> E[Coleta de Evidências, Análises e Interpretações];
-    C --> F[RedTeam (Pentest - Todos os Tipos)];
-    C --> G[BlueTeam (IAM, Campanha de Conscientização)];
-    F --> H[OrangeTeam (Ferramentas de Teste de Códigos)];
-    G --> I[WhiteTeam (Gestão de Risco e Conformidade, Compliance)];
+    C --> F[RedTeam - Pentest];
+    C --> G[BlueTeam - IAM, Campanha de Conscientização];
+    F --> H[OrangeTeam - Ferramentas de Teste de Códigos];
+    G --> I[WhiteTeam - Gestão de Risco e Conformidade, Compliance];
 ```
 ---
 
