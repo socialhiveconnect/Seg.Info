@@ -173,7 +173,7 @@ ___
 
 ```mermaid
   graph LR;
-    A[Avançados em Segurança da Informação] --> B[Forense Digital];
+    A[Avançado em Segurança da Informação] --> B[Forense Digital];
     A --> C[Leis Estatais e Digitais - LGPD];
     B --> D[Análise de Códigos - Identificando Códigos Maliciosos];
     B --> E[Coleta de Evidências, Análises e Interpretações];
