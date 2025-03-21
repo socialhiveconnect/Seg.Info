@@ -5,13 +5,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Agora que você possui uma base sólida de conhecimento, é hora de avançar para a próxima etapa, focando nas ferramentas, configurações e implementações práticas essenciais para a segurança da informação. Neste módulo, você aprenderá a aplicar conceitos como EDR, SIEM, DLP, segurança de endpoints, RBAC, WAF, firewalls e análise de logs, que são amplamente utilizados no mercado.
 &nbsp;&nbsp;&nbsp;&nbsp;Após concluir os cursos, você terá acesso a PDFs com exercícios para reforçar seu aprendizado, agora esses novos desafios já são CTFs. Esses desafios são fundamentais para consolidar as habilidades adquiridas e preparar você para situações reais. Siga a sequência de cursos recomendada abaixo e, em caso de dúvidas, participe de nosso servidor no Discord. Dedique-se ao máximo e aproveite essa oportunidade para aprimorar suas habilidades na área de segurança cibernética.
 
-## Profissões
-&nbsp;&nbsp;&nbsp;&nbsp;Com os conhecimentos adquiridos até o final dessa trilha, você terá uma excelente base para seguir nas carreiras de:
-
-- Analista de Cloud  
-- Profissional de SOC (Centro de Operações de Segurança)  
-- Analista de Segurança da Informação  
-
 ```mermaid
   graph LR;
     A[Fundamentos de Segurança da Informação] --> B[EDR- Endpoint Detection and Response];
@@ -107,6 +100,13 @@
    Habilidade para gerenciar e analisar logs de segurança, utilizando ferramentas como o ELK Stack (Elasticsearch, Logstash, Kibana) e outras plataformas de análise de logs para identificar ameaças e vulnerabilidades.
 - **Práticas de Hacking Ético:**  
    Capacidade de realizar testes de intrusão e avaliações de segurança, utilizando ferramentas como Metasploit e Nmap para identificar falhas de segurança em sistemas e redes.
+
+## Profissões
+&nbsp;&nbsp;&nbsp;&nbsp;Com os conhecimentos adquiridos até o final dessa trilha, você terá uma excelente base para seguir nas carreiras de:
+
+- Analista de Cloud  
+- Profissional de SOC (Centro de Operações de Segurança)  
+- Analista de Segurança da Informação  
 
 ## Livros
 
