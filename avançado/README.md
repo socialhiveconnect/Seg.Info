@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Após concluir os cursos, você terá acesso a PDFs com exercícios para reforçar seu aprendizado, agora esses novos desafios já são CTFs. Esses desafios são fundamentais para consolidar as habilidades adquiridas e preparar você para situações reais. Siga a sequência de cursos recomendada abaixo e, em caso de dúvidas, participe de nosso servidor no Discord. Dedique-se ao máximo e aproveite essa oportunidade para aprimorar suas habilidades na área de segurança cibernética.
 
 ```mermaid
-   graph LR;
+  graph LR;
     A[Fundamentos Avançados de Segurança da Informação] --> B[Forense Digital];
     A --> C[Leis Estatais e Digitais (LGPD)];
     B --> D[Análise de Códigos - Identificando Códigos Maliciosos];
