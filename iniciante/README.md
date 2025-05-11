@@ -42,16 +42,27 @@
    **Ou**  
    **Wazuh for SIEM and Security Monitoring | Udemy**  
    [Wazuh for SIEM and Security Monitoring](https://www.udemy.com/course/wazuh-for-siem-and-security-monitoring/)
-
-3. **DLP (Data Loss Prevention)**  
-   **Data Loss Prevention: Implementation and Management | Pluralsight**  
-   [Pluralsight DLP](https://www.pluralsight.com/courses/data-loss-prevention-implementation-management)
    
    **Ou**  
-   **Symantec DLP 14.5: Configuration and Troubleshooting | Udemy**  
-   [Udemy DLP](https://www.udemy.com/course/symantec-dlp-14-5-configuration-and-troubleshooting/)
+   **SIEM Engineer  | Let's Defender**  
+   [SIEM Engineer Career Path](https://app.letsdefend.io/path/dfir-learning-path)
 
-4. **Segurança de Endpoint**  
+4. **SOC (Security Operations Center)**  
+   **SOC Level 1 Learning Path | TryHackMe**  
+   [TryHackMe SOC Level 1](https://tryhackme.com/path/outline/soclevel1)
+
+   **&**  
+   **SOC Level 2 Learning Path | TryHackMe**  
+   [TryHackMe SOC Level 2](https://tryhackme.com/path/outline/soclevel2)
+
+   **Ou**  
+
+   **SOC (Security Operations Center)**  
+   **SOC Analyst Career Path | Cybrary**  
+   [Cybrary SOC Analyst](https://www.cybrary.it/career-path/soc-analyst/)
+
+
+5. **Segurança de Endpoint**  
    **Endpoint Security Fundamentals | Cybrary**  
    [Cybrary Endpoint Security](https://www.cybrary.it/course/endpoint-security-fundamentals/)
 
@@ -59,23 +70,19 @@
    **Endpoint Security Management | Udemy**  
    [Udemy Endpoint Security](https://www.udemy.com/course/endpoint-security-management/)
 
-5. **RBAC (Role-Based Access Control)**  
-   **O que é o controle de acesso baseado em função (RBAC)? | Redhat**  
-   [RBAC (Role-Based Access Control)](https://www.redhat.com/pt-br/topics/security/what-is-role-based-access-control)
+6. **DFIR (Digital Forensics and Incident Response)**  
+   **DFIR Learning Path | Let'sDefend**  
+   [Let'sDefend DFIR Path](https://app.letsdefend.io/path/dfir-learning-path)
 
-   **Ou**  
-   **Implementing Role-Based Access Control | Udemy**  
-   [Udemy RBAC](https://www.udemy.com/course/implementing-role-based-access-control/)
-
-6. **WAF (Web Application Firewall)**  
+7. **WAF (Web Application Firewall)**  
    **Web Application Firewall Fundamentals | Udemy**  
    [Udemy WAF](https://www.udemy.com/course/web-application-firewall-fundamentals/)
 
-7. **Firewall**  
+8. **Firewall**  
    **FortiGate Firewall Training | Udemy**  
    [FortiGate Firewall Trainings](https://www.udemy.com/course/fortigate-firewall-training/?couponCode=KEEPLEARNINGBR)
 
-8. **Análise de Logs**  
+9. **Análise de Logs**  
    **Log analysis - Detecting Web Attacks | Udemy**  
    [Log analysis ](https://www.udemy.com/course/log-analysis-detecting-web-attacks/?couponCode=KEEPLEARNINGBR)
 
