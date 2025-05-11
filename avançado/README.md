@@ -19,13 +19,17 @@
 
 ## Avançado:
 
-1. **Forense Digital**  
+**1. **Forense Digital**  
    **Introdução à Forense Digital | Udemy**  
    [Curso Forense Digital](https://www.udemy.com/course/digital-forensics-foundations/)
 
    **Ou**  
    **Digital Forensics and Incident Response | Cybrary**  
    [Curso de Forense Digital](https://www.cybrary.it/course/digital-forensics-and-incident-response/)
+
+   **Ou**  
+   **Forense Computacional – Teoria e Prática | Academia Forense Digital**  
+   [Curso de Forense Computacional](https://www.academiaforensedigital.com.br/curso/forense-computacional)
 
 2. **Leis Estatais e Digitais, incluindo LGPD e outras leis relacionadas ao ciberespaço**  
    **LGPD e Privacidade de Dados | Udemy**  
@@ -35,6 +39,10 @@
    **Cybersecurity Laws and Compliance | Coursera**  
    [Curso de Cibersegurança e Conformidade](https://www.coursera.org/learn/cybersecurity-laws)
 
+   **Ou**  
+   **Introdução à LGPD para Peritos | Academia Forense Digital**  
+   [Curso de LGPD na Prática Forense](https://www.academiaforensedigital.com.br/curso/lgpd)
+
 3. **Análise de Códigos - Identificando Códigos Maliciosos**  
    **Curso de Análise de Malware | Udemy**  
    [Curso de Análise de Malware](https://www.udemy.com/course/malware-analysis/)
@@ -42,6 +50,10 @@
    **Ou**  
    **Static and Dynamic Analysis of Malware | Cybrary**  
    [Análise Estática e Dinâmica de Malware](https://www.cybrary.it/course/malware-analysis/)
+
+   **Ou**  
+   **Introdução à Engenharia Reversa e Malware | Academia Forense Digital**  
+   [Curso de Engenharia Reversa](https://www.academiaforensedigital.com.br/curso/malware)
 
 4. **Coleta de Evidências, Análises e Interpretações**  
    **Coleta e Análise de Evidências | Cybrary**  
@@ -51,22 +63,50 @@
    **Evidência Digital e Forense | Udemy**  
    [Curso de Evidência Forense](https://www.udemy.com/course/digital-evidence-collection-forensics/)
 
+   **Ou**  
+   **Coleta e Preservação de Evidências Digitais | Academia Forense Digital**  
+   [Curso de Preservação de Evidências](https://www.academiaforensedigital.com.br/curso/coleta-evidencias-digitais)
+
 5. **Cybersecurity - RedTeam, BlueTeam, OrangeTeam, WhiteTeam**  
    **RedTeam (Pentest - Todos os Tipos)**  
    **Introdução ao PenTest e RedTeam | Udemy**  
    [Curso de PenTest](https://www.udemy.com/course/ethical-hacking-the-complete-course/)
 
+   **Ou**  
+
+   **Hack the Box – Starting Point | HackTheBox Academy**  
+   [HTB Starting Point](https://academy.hackthebox.com/track/starting-point)
+
+   **Ou** 
+ 
+   **Pentest Essentials | TryHackMe**  
+   [Pentest Essentials no TryHackMe](https://tryhackme.com/room/pentestessentials)
+
+   **Ou**  
+
    **BlueTeam (IAM, Campanha de Conscientização)**  
    **Gestão de Identidades e Acessos (IAM) | Coursera**  
    [Curso IAM](https://www.coursera.org/learn/identity-access-management)
+
+   **Ou**  
 
    **OrangeTeam (Ferramentas de Teste de Códigos)**  
    **Testes de Vulnerabilidades em Códigos | Udemy**  
    [Curso de Testes de Vulnerabilidades](https://www.udemy.com/course/penetration-testing-vulnerabilities/)
 
+   **Ou**  
+
+   **Secure Coding | Hack The Box Academy**  
+   [HTB Secure Coding](https://academy.hackthebox.com/course/preview/secure-coding)
+
    **WhiteTeam (Gestão de Risco e Conformidade, Parte Legal, Compliance)**  
    **Gestão de Riscos e Compliance | Coursera**  
    [Curso de Compliance e Gestão de Riscos](https://www.coursera.org/learn/risk-management-compliance)
+
+   **Ou**  
+
+   **Governança, Riscos e Conformidade na Prática | Academia Forense Digital**  
+   [Curso de GRC](https://www.academiaforensedigital.com.br/curso/governanca-riscos-conformidade)
 
 ---
 
