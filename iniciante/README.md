@@ -61,8 +61,13 @@
    **SOC Analyst Career Path | Cybrary**  
    [Cybrary SOC Analyst](https://www.cybrary.it/career-path/soc-analyst/)
 
+   **Ou**
+   
+   **SOC Analyst Learning Path | LetsDefend**  
+   [LetsDefend - SOC Path](https://app.letsdefend.io/path/soc-analyst-learning-path)
 
-5. **Segurança de Endpoint**  
+
+6. **Segurança de Endpoint**  
    **Endpoint Security Fundamentals | Cybrary**  
    [Cybrary Endpoint Security](https://www.cybrary.it/course/endpoint-security-fundamentals/)
 
@@ -70,19 +75,19 @@
    **Endpoint Security Management | Udemy**  
    [Udemy Endpoint Security](https://www.udemy.com/course/endpoint-security-management/)
 
-6. **DFIR (Digital Forensics and Incident Response)**  
+7. **DFIR (Digital Forensics and Incident Response)**  
    **DFIR Learning Path | Let'sDefend**  
    [Let'sDefend DFIR Path](https://app.letsdefend.io/path/dfir-learning-path)
 
-7. **WAF (Web Application Firewall)**  
+8. **WAF (Web Application Firewall)**  
    **Web Application Firewall Fundamentals | Udemy**  
    [Udemy WAF](https://www.udemy.com/course/web-application-firewall-fundamentals/)
 
-8. **Firewall**  
+9. **Firewall**  
    **FortiGate Firewall Training | Udemy**  
    [FortiGate Firewall Trainings](https://www.udemy.com/course/fortigate-firewall-training/?couponCode=KEEPLEARNINGBR)
 
-9. **Análise de Logs**  
+10. **Análise de Logs**  
    **Log analysis - Detecting Web Attacks | Udemy**  
    [Log analysis ](https://www.udemy.com/course/log-analysis-detecting-web-attacks/?couponCode=KEEPLEARNINGBR)
 
