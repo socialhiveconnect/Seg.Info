@@ -20,60 +20,70 @@
 ## Intermediário:
 
 1. **Brand Protection (Proteção de Marca)**  
-   **Guia de Proteção de Marca**  
-   [Proteção de Marca: Como evitar fraudes e ataques à identidade digital](https://www.example.com/brand-protection-guide)
-   
+   **Guia sobre Proteção de Marca e Defesa Digital | SOCRadar Academy**  
+   [SOCRadar - Brand Protection Guide](https://academy.socradar.io/courses/brand-protection/)
+
+
 2. **IA para Segurança da Informação**  
-   **Inteligência Artificial na Segurança Cibernética | Udemy**  
-   [Curso de IA para Segurança](https://www.udemy.com/course/ia-para-seguranca-da-informacao/)
-  
+   **AI in Cybersecurity | Coursera**  
+   [AI in Cybersecurity - Coursera](https://www.coursera.org/learn/ai-security)
+
    **Ou**  
-   **IA para Detecção de Ameaças | Coursera**  
-   [Curso de IA para Threat Intelligence](https://www.coursera.org/learn/ai-security)
+   **Cybersecurity and AI | edX - IBM**  
+   [IBM Cybersecurity and AI](https://www.edx.org/course/cybersecurity-and-ai)
+
 
 3. **Segurança de Rede**  
-   **Fundamentos de Segurança de Redes | Cybrary**  
-   [Segurança de Redes - Curso Completo](https://www.cybrary.it/course/network-security/)
+   **Network Security | TryHackMe**  
+   [TryHackMe Network Security](https://tryhackme.com/module/network-security)
 
    **Ou**  
-   **Firewalls e Redes Seguras | Udemy**  
-   [Curso de Firewalls e Segurança de Redes](https://www.udemy.com/course/firewalls-and-network-security/)
+   **Network Fundamentals | Hack The Box Academy**  
+   [HTB Academy - Network Fundamentals](https://academy.hackthebox.com/module/preview/17)
+
 
 4. **Segurança em Nuvem**  
-   **Fundamentos de Segurança em Nuvem | AWS Training**  
-   [Curso de Segurança em Nuvem](https://aws.amazon.com/training/)
+   **Cloud Security Basics | TryHackMe**  
+   [TryHackMe - Cloud Security](https://tryhackme.com/module/cloud-security)
 
    **Ou**  
-   **Segurança em Nuvem com Azure | Udemy**  
-   [Curso de Segurança no Azure](https://www.udemy.com/course/cloud-security-with-azure/)
+   **Azure Security Engineer Path | Hack The Box Academy**  
+   [HTB Academy - Azure Security](https://academy.hackthebox.com/path/preview/14)
+
 
 5. **Segurança de Aplicação**  
-   **Fundamentos de Segurança de Aplicações | Udemy**  
-   [Curso de Segurança de Aplicações Web](https://www.udemy.com/course/web-application-security/)
+   **OWASP Top 10 | TryHackMe**  
+   [TryHackMe OWASP Top 10](https://tryhackme.com/module/owasp-top-10)
+
+   **Ou**  
+   **Web Fundamentals | Hack The Box Academy**  
+   [HTB Academy - Web Fundamentals](https://academy.hackthebox.com/module/preview/23)
+
 
 6. **Automação em Segurança**  
-   **Automação de Segurança | Pluralsight**  
-   [Curso de Automação em Cibersegurança](https://www.pluralsight.com/courses/security-automation)
+   **Let'sDefend – SOC Automation Labs**  
+   [Let'sDefend SOC Labs](https://app.letsdefend.io/labs)
 
    **Ou**  
-   **Automatizando Defesa Cibernética | Udemy**  
-   [Automação em Defesa Cibernética](https://www.udemy.com/course/automating-cyber-defense/)
+   **Blue Team Automation | Medium Playlist**  
+   [Blue Team Automation Collection](https://infosecwriteups.com/blue-team-automation-collection-c37c5b3c8dbb)
 
 7. **Projeção - VPN, IDS, IPS**  
-   **VPN, IDS e IPS: Proteção Avançada | Udemy**  
-   [Curso de VPN e Segurança de Rede](https://www.udemy.com/course/vpn-ids-ips-security/)
+   **Defensive Security | TryHackMe**  
+   [TryHackMe Defensive Security](https://tryhackme.com/module/defensive-security)
 
    **Ou**  
-   **Introdução ao IDS e IPS | Coursera**  
-   [Curso de IDS e IPS](https://www.coursera.org/learn/ids-ips-introduction)
+   **Network Security Monitoring | HTB Academy**  
+   [HTB Academy - NSM](https://academy.hackthebox.com/module/preview/91)
 
 8. **Threat Intelligence (Inteligência contra Ameaças)**  
-   **Threat Intelligence para Profissionais de Segurança | Udemy**  
-   [Curso de Threat Intelligence](https://www.udemy.com/course/threat-intelligence-for-security-professionals/)
+   **Threat Intelligence Learning Path | Let'sDefend**  
+   [Let'sDefend Threat Intelligence Path](https://app.letsdefend.io/path/threat-intelligence)
 
    **Ou**  
-   **Análise de Ameaças e Vulnerabilidades | Cybrary**  
-   [Curso de Análise de Ameaças](https://www.cybrary.it/course/threat-intelligence/)
+   **Cyber Threat Intelligence | TryHackMe**  
+   [TryHackMe Threat Intel](https://tryhackme.com/module/cyber-threat-intelligence)
+
 ---
 
 ## O que você deve saber ao terminar essa trilha:
