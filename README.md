@@ -1,7 +1,7 @@
 <h1 align="center">HIVE.CONNECT</h1>
 
 <div align="center">
-  <img src="cybersecurity.png" alt="Cybersecurity"/>
+  <img src="cyber.png" alt="Cybersecurity"/>
   <h1 align="center">Segurança da Informação</h1>
 </div>
 
