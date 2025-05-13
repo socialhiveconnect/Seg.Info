@@ -102,15 +102,6 @@ Arquitetura de Segurança | Proteção de Infraestruturas Críticas | Modelagem 
 | **Notícias** | Caverna Tech | Em site com notícias focadas em tecnologia e segurança cibernética em Português | [Caveira Tech](https://caveiratech.com/) |
 | **Notícias** | The Hacker News | Portal de notícias com atualizações sobre vulnerabilidades e incidentes | [The Hacker News](https://thehackernews.com/) |
 | **Notícias** | TBleeping Computer | Oferece notícias diárias sobre cibersegurança, hacks e vulnerabilidades | [Bleeping Computer](https://www.bleepingcomputer.com/) |
-| **Ferramenta Web** | VirusTotal | Analisa arquivos e URLs em busca de vírus, malware e outras ameaças | [Virus Total](https://www.virustotal.com/gui/home/upload) |
-| **Ferramenta Web** | CyberChef  | Análise de dados e manipulação de texto, ideal para profissionais de segurança | [CyberChef](https://toolbox.itsec.tamu.edu/) |
-| **Ferramenta Web** | Shodan | Um motor de busca para dispositivos IoT que ajuda a identificar vulnerabilidades | [Shodan](https://www.shodan.io/) |
-| **Ferramenta Web** | Censys | Motor de busca de segurança para monitoramento de redes e serviços expostos na internet| [Censys](https://search.censys.io/) |
-| **Ferramenta Web** | Have I Been Pwned | Verifique se suas credenciais foram expostas em brechas de segurança conhecidas | [Have I Been Pwned](https://haveibeenpwned.com/) |
-| **CVE** | CVE Details | Plataforma para pesquisa detalhada sobre CVEs | [CVE Details](https://www.cvedetails.com/) |
-| **Vulnerabilidades** | Exploit Database |  Repositório de exploits conhecidos, atualizado com detalhes sobre CVEs e ataques | [Exploit DataBase](https://www.exploit-db.com/) |
-| **Recursos de Pentest** | PentestTools | Para agrupar ferramentas, novidades e dicas para pentesters | [PentestTools](https://pentesttools.net/) |
-| **Serviço** | Temp Mail | Serviço de e-mail temporário para proteger sua privacidade e evitar spam. | [Temp Mail](https://temp-mail.org/pt/) |
 | **Repositório** | The Art of Hacking | Repositório com diversos materiais, ferramentas e recursos para cibersegurança | [h4cker](https://github.com/The-Art-of-Hacking/h4cker) |
 | **Repositório** | OWASP Cheat Sheet Series | Coleção de cheatsheets para auxiliar a aplicar práticas de segurança | [OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries) |
 | **Repositório** | Metasploit Framework | Plataforma avançada para desenvolvimento, teste e execução de exploits contra máquinas remotas. | [Metasploit Framework](https://github.com/rapid7/metasploit-framework) |
@@ -332,45 +323,6 @@ ___
   Canal que cobre tópicos sobre segurança em redes, monitoramento de segurança e boas práticas para proteger sistemas de TI.
 
 ---
-
-## Principais Ferramentas Instaláveis
-
-| Categoria | Nome | Open Source/Paga | Descrição | Link |
-| :---: | :---: | :---: | :---: | :---: |
-| **Análise de Redes** | **Nmap** | Open Source | Ferramenta para descoberta de rede e auditoria de segurança, utilizada para mapear redes e identificar portas abertas. | [Nmap](https://nmap.org/) |
-| **SIEM** | **AlienVault OSSIM** | Open Source | Plataforma de gerenciamento de eventos e informações de segurança que integra diversas ferramentas de segurança. | [AlienVault OSSIM](https://cybersecurity.att.com/products/ossim) |
-| **Análise de Vulnerabilidades** | **Nessus** | Paga | Scanner de vulnerabilidades amplamente utilizado para identificar pontos fracos em sistemas e redes. | [Nessus](https://www.tenable.com/products/nessus) |
-| **Compartilhamento de Informações** | **MISP** | Open Source | Plataforma de compartilhamento de informações sobre ameaças, facilitando a coleta, armazenamento e distribuição de indicadores de comprometimento. | [MISP](https://www.misp-project.org/) |
-| **Análise de Vulnerabilidades** | **OpenVAS** | Open Source | Plataforma robusta para varreduras de vulnerabilidades, permitindo a detecção de falhas de segurança em diversos serviços e aplicações. | [OpenVAS](https://www.greenbone.net/en/openvas-community-edition/) |
-| **Detecção de Intrusões** | **Snort** | Open Source | Sistema de prevenção e detecção de intrusões em rede que analisa o tráfego em tempo real. | [Snort](https://www.snort.org/) |
-| **Monitoramento de Segurança** | **Wazuh** | Open Source | Plataforma de monitoramento de segurança que oferece detecção de ameaças, integridade de arquivos e resposta a incidentes. | [Wazuh](https://wazuh.com/) |
-| **Análise de Redes** | **Wireshark** | Open Source | Ferramenta de análise de protocolos de rede que captura e interage com os dados trafegados em uma rede. | [Wireshark](https://www.wireshark.org/) |
-| **Firewall** | **Untangle** | Open Source | Fornece proteção contra spam, vírus e spyware, além de filtragem na web e funcionalidades de firewall. | [Untangle](https://www.untangle.com/) |
-| **Monitoramento de Redes** | **Network Security Toolkit (NST)** | Open Source | Combina uma variedade de aplicativos de código aberto para monitorar tráfego, intrusões e muito mais. | [NST](https://networksecuritytoolkit.org/nst/) |
-| **Auditoria de Segurança** | **Bastille Linux** | Open Source | Ferramenta que oferece um bloqueio personalizado para máquinas Linux, baseado em respostas sobre segurança. | [Bastille Linux](https://bastille-linux.sourceforge.io/) |
-| **Análise de Malware** | **Cuckoo Sandbox** | Open Source | Sistema de análise automatizada de malware que permite a observação do comportamento de arquivos suspeitos. | [Cuckoo Sandbox](https://cuckoosandbox.org/) |
-| **Forense Digital** | **Autopsy** | Open Source | Interface gráfica para o The Sleuth Kit, utilizada para investigações forenses de discos rígidos e smartphones. | [Autopsy](https://www.sleuthkit.org/autopsy/) |
-| **Kali Linux**                    | **Aircrack-ng**           | Open Source     | Conjunto de ferramentas para testar a segurança de redes sem fio, incluindo crack de chaves WEP e WPA. | [Aircrack-ng](https://www.aircrack-ng.org/) |
-| **Kali Linux**                    | **Burp Suite**            | Paga            | Plataforma para realizar testes de penetração em aplicativos web, com foco em interceptação de requisições HTTP/HTTPS. | [Burp Suite](https://portswigger.net/burp) |
-| **Kali Linux**                    | **Metasploit Framework**  | Open Source/Paga | Ferramenta de desenvolvimento e execução de exploits contra máquinas remotas. | [Metasploit](https://www.metasploit.com/) |
-| **Kali Linux**                    | **John the Ripper**       | Open Source     | Ferramenta para quebra de senhas, com suporte a diversos algoritmos de criptografia. | [John the Ripper](https://www.openwall.com/john/) |
-| **Kali Linux**                    | **Hydra**                 | Open Source     | Ferramenta para ataques de força bruta em serviços de rede, como SSH, FTP, HTTP, entre outros. | [Hydra](https://github.com/vanhauser-thc/thc-hydra) |
-| **Kali Linux**                    | **Wireshark**             | Open Source     | Ferramenta de análise de protocolos de rede, permitindo capturar e examinar pacotes de dados em tempo real. | [Wireshark](https://www.wireshark.org/) |
-| **Forense Digital**               | **Sleuth Kit**            | Open Source     | Conjunto de ferramentas para investigação forense digital de sistemas de arquivos, adequado para análise de discos e dispositivos. | [Sleuth Kit](https://www.sleuthkit.org/) |
-| **Análise de Malware**            | **Cuckoo Sandbox**        | Open Source     | Ferramenta de análise automatizada de malware, permitindo a execução segura e o monitoramento de arquivos suspeitos. | [Cuckoo Sandbox](https://cuckoosandbox.org/) |
-| **Monitoramento de Rede**         | **Zabbix**                | Open Source     | Ferramenta de monitoramento de redes, servidores e aplicações, proporcionando análise detalhada de desempenho e segurança. | [Zabbix](https://www.zabbix.com/) |
-| **Teste de Penetração**           | **OWASP ZAP**             | Open Source     | Ferramenta de teste de penetração focada em encontrar vulnerabilidades em aplicativos web. | [OWASP ZAP](https://www.zaproxy.org/) |
-| **Segurança de Email**            | **Gpg4win**               | Open Source     | Ferramenta para criptografia e assinatura de emails, usando o padrão OpenPGP. | [Gpg4win](https://gpg4win.org/) |
-| **Gerenciamento de Vulnerabilidades** | **OpenSCAP**             | Open Source     | Conjunto de ferramentas para avaliação de segurança de sistemas, com foco em conformidade e análise de vulnerabilidades. | [OpenSCAP](https://www.open-scap.org/) |
-| **Análise de Vulnerabilidades**   | **Nikto**                 | Open Source     | Scanner de vulnerabilidades em servidores web, verificando configurações inseguras e possíveis falhas. | [Nikto](https://cirt.net/Nikto2) |
-| **Segurança de Banco de Dados**   | **sqlmap**                | Open Source     | Ferramenta para automatizar a detecção e exploração de falhas de injeção SQL em aplicativos web. | [sqlmap](http://sqlmap.org/) |
-| **Teste de Penetração**           | **Beef Framework**        | Open Source     | Framework para penetração em aplicativos web, focado em exploração de falhas em browsers. | [Beef Framework](https://github.com/beefproject/beef) |
-| **Guia de Testes de Segurança Web** | **OWASP Web Security Testing Guide** | Open Source | Guia detalhado de testes de segurança voltado para a segurança de aplicativos web. | [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/) |
-| **Táticas e Técnicas de Ataque** | **MITRE ATT&CK** | Open Source | Base de conhecimento sobre as táticas e técnicas de ataque cibernético utilizadas por adversários. | [MITRE ATT&CK](https://attack.mitre.org/) |
-| **Publicações de Segurança** | **NIST SP 800-115** | Open Source | Publicação do NIST sobre diretrizes para testes de segurança em redes e sistemas de informação. | [NIST SP 800-115](https://csrc.nist.gov/pubs/sp/800/115/final) |
-| **Segurança de Informações** | **ISECOM** | Open Source | Organiza pesquisa e educação em segurança da informação e privacidade. | [ISECOM](https://www.isecom.org/) |
-| **Padrão de Testes de Penetração** | **Pentest Standard** | Open Source | Padrão globalmente reconhecido para realizar testes de penetração de maneira estruturada. | [Pentest Standard](http://www.pentest-standard.org/index.php/Main_Page) |
-
 
 <h1 align="center">Muito obrigada por chegar até aqui! 🐝</h1>
 
